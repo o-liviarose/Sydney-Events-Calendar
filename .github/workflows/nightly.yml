@@ -1,0 +1,29 @@
+name: Update events
+
+on:
+  schedule:
+    - cron: "0 16 * * *"   # 16:00 UTC, which is 2am or 3am in Sydney depending on daylight saving
+  workflow_dispatch:        # adds a "Run workflow" button so you can run it by hand
+
+permissions:
+  contents: write           # lets the job save the updated events.json
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python collect.py
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+      - name: Save results
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add events.json
+          git diff --staged --quiet || git commit -m "Update events"
+          git push

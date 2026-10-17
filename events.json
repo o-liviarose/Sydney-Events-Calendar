@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-17T09:24:53.969574+00:00",
+ "updated": "2026-10-17T16:19:17.196395+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 266,
+   "count": 258,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 23,
+   "count": 22,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 24,
+   "count": 23,
    "warning": null,
    "error": null
   },
@@ -50,97 +50,6 @@
    "src": "inner_west"
   },
   {
-   "k": "music",
-   "n": "Glare + Septemberistheonlytimeidontthinkofyou",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "12pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/glare-septemberistheonlytimeidontthinkofyou/198960",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "2pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-17-10-2026/event/1300632BBC124629",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Anyma presents \u00c6den",
-   "a": "City",
-   "s": "Sydney",
-   "v": "The Domain",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "5pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/anyma-presents-den-sydney-17-10-2026/event/1300643CD30D7773",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Nancy and the Jam Fancys with Twelve Point Buck and Finnoguns Wake ",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/nancy-and-the-jam-fancys-with-twelve-point-buck-and-finnoguns-wake/199158",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "SINN6R\u00a0+\u00a0Victory Lap Radio",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/sinn6r-victory-lap-radio/198962",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites FORGE B2B ELIJAH SOMETHING [ALL NIGHT LONG] + LUSTII & FRIENDS FT SHUKO [NAARM/MELB]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-forge-b2b-elijah-something-all-night-long-lustii-friends-ft-shuko-naarm-melb-/200887",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Terminal V Sydney",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/terminal-v-sydney/198131",
-   "src": "ticketmaster"
-  },
-  {
    "k": "market",
    "n": "A Handmade Life Collective",
    "a": "Inner West",
@@ -152,97 +61,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/a-handmade-life-collective",
    "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Saturday Night Comedy at the Bowlo",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/saturday-night-comedy-bowlo",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Sail Expo 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": "2026-10-18",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/sail-expo-2026",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "THE YEAR IN TATTERS",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
-   "src": "north_sydney"
-  },
-  {
-   "k": "market",
-   "n": "Northside Produce Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
-   "src": "north_sydney"
-  },
-  {
-   "k": "market",
-   "n": "Rotary Crows Nest Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/52/rotary-crows-nest-market",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Loom Heaven Studio",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1675/loom-heaven-studio",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-17",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -323,6 +141,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "fest",
+   "n": "THE YEAR IN TATTERS",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "Crows Nest Fest 2026",
    "a": "North Shore",
@@ -333,6 +164,32 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/1666/crows-nest-fest-2026",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Loom Heaven Studio",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1675/loom-heaven-studio",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
    "src": "north_sydney"
   },
   {
@@ -817,19 +674,6 @@
    "src": "inner_west"
   },
   {
-   "k": "market",
-   "n": "Avalon Car Boot Sale",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "8am\u20132pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/avalon-car-boot-sale-event",
-   "src": "northern_beaches"
-  },
-  {
    "k": "food",
    "n": "Nationwide Nadi Rugby 7's Tournament",
    "a": "Northern Beaches",
@@ -840,6 +684,19 @@
    "t": "8am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nationwide-nadi-rugby-7s-tournament",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "market",
+   "n": "Avalon Car Boot Sale",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-10-24",
+   "en": 0,
+   "t": "8am\u20132pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/avalon-car-boot-sale-event",
    "src": "northern_beaches"
   },
   {
@@ -1504,6 +1361,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/inclusion-festival-short-film-hackathon",
    "src": "inner_west"
+  },
+  {
+   "k": "market",
+   "n": "Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-07",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
+   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -2244,6 +2114,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/529/check-in-and-tune-up-at-northside-produce-market",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Rotary Crows Nest Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/52/rotary-crows-nest-market",
    "src": "north_sydney"
   },
   {

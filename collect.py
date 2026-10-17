@@ -13,10 +13,11 @@ import time
 from urllib.parse import urljoin
 
 import requests
+from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
 UA = {"User-Agent": "personal-events-calendar/1.0 (hobby project, one run a night)"}
-TODAY = dt.date.today()
+TODAY = dt.datetime.now(ZoneInfo("Australia/Sydney")).date()  # the server clock is UTC, so ask for Sydney's date
 HORIZON = TODAY + dt.timedelta(days=120)  # how far ahead to look
 DELAY = 1.5  # seconds between page loads, to be polite to council servers
 

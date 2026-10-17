@@ -178,10 +178,11 @@ $("prev").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()-1,1);dra
 $("next").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()+1,1);draw()};
 $("today").onclick=()=>{sel=new Date();sel.setHours(0,0,0,0);view=new Date(sel.getFullYear(),sel.getMonth(),1);draw()};
 const norm=s=>(s||"").toLowerCase().replace(/\b20\d\d\b/g,"").replace(/[^a-z0-9]/g,"");
-const same=(a,b)=>a.st&&a.st===b.st&&(norm(a.n).includes(norm(b.n))||norm(b.n).includes(norm(a.n)));
+const same=(a,b)=>{const x=norm(a.n),y=norm(b.n);if(!a.st||a.st!==b.st||x.length<4||y.length<4)return false;const s=x.length<y.length?x:y,l=s===x?y:x;return l.includes(s)&&s.length/l.length>=0.6};
 fetch("events.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
   if(!d||!d.events)return;
-  d.events.forEach(e=>{if(!M.some(m=>same(m,e)))M.push(e)});
+  const curated=M.slice();
+  d.events.forEach(e=>{if(!curated.some(m=>same(m,e)))M.push(e)});
   const bad=Object.entries(d.sources||{}).filter(([k,v])=>v.warning).map(([k,v])=>k.replace("_"," ")+": "+v.warning);
   $("upd").textContent="Automatic listings updated "+new Date(d.updated).toLocaleDateString("en-AU",{day:"numeric",month:"long"})+(bad.length?". Check these sources: "+bad.join("; "):"")+".";
   draw();

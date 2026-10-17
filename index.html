@@ -177,11 +177,11 @@ $("grid").onclick=e=>{const b=e.target.closest(".day");if(!b)return;sel=new Date
 $("prev").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()-1,1);draw()};
 $("next").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()+1,1);draw()};
 $("today").onclick=()=>{sel=new Date();sel.setHours(0,0,0,0);view=new Date(sel.getFullYear(),sel.getMonth(),1);draw()};
-const key=m=>(m.n||"").toLowerCase().replace(/[^a-z0-9]/g,"")+"|"+(m.st||"");
+const norm=s=>(s||"").toLowerCase().replace(/\b20\d\d\b/g,"").replace(/[^a-z0-9]/g,"");
+const same=(a,b)=>a.st&&a.st===b.st&&(norm(a.n).includes(norm(b.n))||norm(b.n).includes(norm(a.n)));
 fetch("events.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
   if(!d||!d.events)return;
-  const seen=new Set(M.map(key));
-  d.events.forEach(e=>{if(!seen.has(key(e))){seen.add(key(e));M.push(e)}});
+  d.events.forEach(e=>{if(!M.some(m=>same(m,e)))M.push(e)});
   const bad=Object.entries(d.sources||{}).filter(([k,v])=>v.warning).map(([k,v])=>k.replace("_"," ")+": "+v.warning);
   $("upd").textContent="Automatic listings updated "+new Date(d.updated).toLocaleDateString("en-AU",{day:"numeric",month:"long"})+(bad.length?". Check these sources: "+bad.join("; "):"")+".";
   draw();

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:00:27.939204+00:00",
+ "updated": "2026-10-17T09:24:53.969574+00:00",
  "sources": {
   "ticketmaster": {
    "count": 266,
@@ -16,35 +16,10 @@
    "warning": null,
    "error": null
   },
-  "city_of_sydney": {
-   "count": 0,
-   "warning": "found nothing, showing older listings",
-   "error": null
-  },
-  "north_shore": {
-   "count": 0,
-   "warning": "found nothing, showing older listings",
-   "error": null
-  },
-  "hills": {
-   "count": 0,
-   "warning": "failed, showing older listings",
-   "error": "403 Client Error: Forbidden for url: https://www.thehills.nsw.gov.au/Upcoming-Events-Activities"
-  },
-  "parramatta": {
-   "count": 0,
-   "warning": "failed, showing older listings",
-   "error": "403 Client Error: Forbidden for url: https://www.cityofparramatta.nsw.gov.au/community/events/upcoming-events"
-  },
   "north_sydney": {
    "count": 16,
    "warning": null,
    "error": null
-  },
-  "ku_ring_gai": {
-   "count": 0,
-   "warning": "failed, showing older listings",
-   "error": "403 Client Error: Forbidden for url: https://www.krg.nsw.gov.au/Things-to-do/Whats-on"
   }
  },
  "events": [

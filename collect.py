@@ -23,12 +23,12 @@ DELAY = 1.5  # seconds between page loads, to be polite to council servers
 # A council listing is kept if it contains a KEEP word and no SKIP word. Edit freely.
 KEEP = ["festival", "market", "fair", "fete", "carnival", "concert", "live music", "comedy",
         "expo", "parade", "fiesta", "festa", "gig", "cinema", "film", "show", "party",
-        "regatta", "open day", "food", "wine"]
+        "regatta", "open day", "food", "wine", "theatre", "musical", "opera", "jazz", "revue", "orchestra", "stand-up"]
 SKIP = ["library", "workshop", "class", "meeting", "webinar", "storytime", "mahjong",
-        "seniors", "school holiday", "drawing", "session", "course", "talk"]
+        "seniors", "school holiday", "drawing", "session", "course", "talk", "speed dating", "singles", "reiki"]
 
 MONTHS = {m: i + 1 for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split())}
-DATE_RE = re.compile(r"(\d{1,2}) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(?: (\d{4}))?")
+DATE_RE = re.compile(r"(\d{1,2}) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*(?: (\d{4}))?")
 TIME_RE = re.compile(r"(\d{1,2})\.(\d{2}) ([AP]M) - (\d{1,2})\.(\d{2}) ([AP]M)")
 IW_SUBURBS = ["Annandale", "Ashbury", "Ashfield", "Balmain East", "Balmain", "Birchgrove", "Camperdown",
               "Croydon Park", "Croydon", "Dulwich Hill", "Enmore", "Haberfield", "Hurlstone Park",
@@ -49,6 +49,10 @@ def area_for(postcode):
         p = int(postcode)
     except (TypeError, ValueError):
         return None
+    if p in (2088, 2089, 2090, 2091) or 2060 <= p <= 2083:
+        return "North Shore"
+    if 2142 <= p <= 2151:
+        return "Parramatta"
     if 2084 <= p <= 2108:
         return "Northern Beaches"
     if 2153 <= p <= 2158 or p in (2120, 2125, 2126):
@@ -171,6 +175,130 @@ def northern_beaches():
     return out
 
 
+OC_KEEP = ["festivals & fairs", "markets & shopping", "concerts, music & theatre", "food & drink", "riverside theatres", "pride"]
+WO_DATE = re.compile(r"(Today|Tomorrow|\d{1,2} (?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d{4})"
+                     r"(?: (\d{1,2}(?:\.\d{2})?[ap]m) to (\d{1,2}(?:\.\d{2})?[ap]m))?")
+WO_KINDS = {"Music": "music", "Nightlife": "music", "Theatre, dance & film": "theatre",
+            "Food & drink": "food", "Shopping, markets & fairs": "market"}
+
+
+def skipped(text):
+    return any(w in text.lower() for w in SKIP)
+
+
+def opencities(list_url, area, src, keep=None, pages=6):
+    """Hills and Parramatta councils share one website platform, so one reader serves both.
+    Page 2 onwards uses a best-guess address; if it is wrong the loop simply stops after page 1."""
+    keep = keep or OC_KEEP
+    base, out, seen = "/".join(list_url.split("/")[:3]), [], set()
+    for page in range(1, pages + 1):
+        url = list_url if page == 1 else f"{list_url}?dlv_OC%20CL%20Public%20Events=(pageindex={page})"
+        new = 0
+        for a in get(url).find_all("a", href=True):
+            link, text = urljoin(base, a["href"]), a.get_text(" ", strip=True)
+            m = DATE_RE.search(text)
+            if "Tagged as" not in text or not m or link in seen:
+                continue
+            seen.add(link)
+            new += 1
+            title, tags = text[:m.start()].strip(), text.split("Tagged as:")[-1].lower()
+            start = to_date(*m.groups())
+            if not (any(t in tags for t in keep) or wanted(title)) or skipped(title) or not TODAY <= start <= HORIZON:
+                continue
+            out.append({"k": guess_kind(title + " " + tags), "n": title, "a": area, "s": area, "v": "See listing",
+                        "st": start.isoformat(), "en": 0, "t": "See listing", "x": "", "u": link, "src": src})
+        if new == 0:
+            break
+    return out
+
+
+def whatson(url, area, src):
+    """City of Sydney What's On: one page per region (or the main page when area is None)."""
+    base, out, seen = "https://whatson.cityofsydney.nsw.gov.au", [], set()
+    for h in get(url).find_all("h3"):
+        a = h.find("a", href=True)
+        if not a or "/events/" not in a["href"] or a["href"] in seen:
+            continue
+        seen.add(a["href"])
+        card = h.parent
+        for _ in range(3):
+            if card.find("a", href=re.compile("/categories/")) or card.parent is None:
+                break
+            card = card.parent
+        text, title = card.get_text(" ", strip=True), a.get_text(" ", strip=True)
+        cat = card.find("a", href=re.compile("/categories/"))
+        cat = cat.get_text(strip=True) if cat else ""
+        place = card.find("a", href=re.compile("/suburbs/")) or card.find("a", href=re.compile("/venues/"))
+        place = place.get_text(strip=True) if place else ""
+        dates = list(WO_DATE.finditer(text))
+        if not dates or skipped(title) or not (cat in WO_KINDS or wanted(title)):
+            continue
+        d = dates[-1]
+        day = TODAY if d.group(1) == "Today" else TODAY + dt.timedelta(days=1) if d.group(1) == "Tomorrow" \
+            else dt.datetime.strptime(d.group(1), "%d %b %Y").date()
+        if not TODAY <= day <= HORIZON:
+            continue
+        t = f"{d.group(2).replace('.', ':')}\u2013{d.group(3).replace('.', ':')}" if d.group(2) else "See listing"
+        out.append({"k": "comedy" if "comedy" in title.lower() else WO_KINDS.get(cat) or guess_kind(title), "n": title,
+                    "a": area or ("Inner West" if place in IW_SUBURBS else "City"), "s": place or "Sydney",
+                    "v": "See listing", "st": day.isoformat(), "en": 0, "t": t, "x": "",
+                    "u": urljoin(base, a["href"]), "src": src})
+    return out
+
+
+def city_of_sydney():
+    return whatson("https://whatson.cityofsydney.nsw.gov.au/", None, "city_of_sydney")
+
+
+def north_shore():
+    base = "https://whatson.cityofsydney.nsw.gov.au/"
+    return (whatson(base + "regions/lower-north-shore", "North Shore", "north_shore")
+            + whatson(base + "?regions=upper-north-shore", "North Shore", "north_shore"))
+
+
+def hills():
+    return opencities("https://www.thehills.nsw.gov.au/Upcoming-Events-Activities", "Hills", "hills")
+
+
+def parramatta():
+    return opencities("https://www.cityofparramatta.nsw.gov.au/community/events/upcoming-events", "Parramatta", "parramatta")
+
+
+def north_sydney():
+    base, out, seen = "https://www.northsydney.nsw.gov.au", [], set()
+    ok = lambda h: "/events/event/" in h
+    for page in range(1, 31):  # 9 events a page, oldest first; stops once events are past the horizon
+        new = late = 0
+        for a in get(f"{base}/events?page={page}").find_all("a", href=True):
+            link, title = urljoin(base, a["href"]), a.get_text(" ", strip=True)
+            if not ok(a["href"]) or not title or link in seen:
+                continue
+            card = card_for(a, ok)
+            if card is None:
+                continue
+            seen.add(link)
+            new += 1
+            text = card.get_text(" ", strip=True)
+            dates = parse_dates(text.split("Date:", 1)[1]) if "Date:" in text else None
+            if not dates:
+                continue
+            if dates[0] > HORIZON:
+                late += 1
+                continue
+            if dates[1] < TODAY or skipped(title) or not wanted(text):
+                continue
+            out.append({"k": guess_kind(text), "n": title, "a": "North Shore", "s": "North Sydney", "v": "See listing",
+                        "st": dates[0].isoformat(), "en": dates[1].isoformat() if dates[1] != dates[0] else 0,
+                        "t": "See listing", "x": "", "u": link, "src": "north_sydney"})
+        if new == 0 or late == new:
+            break
+    return out
+
+
+def ku_ring_gai():
+    return opencities("https://www.krg.nsw.gov.au/Things-to-do/Whats-on", "North Shore", "ku_ring_gai", keep=["festivals"])
+
+
 def ticketmaster():
     key = os.environ.get("TICKETMASTER_KEY")
     if not key:
@@ -216,7 +344,9 @@ def main():
     except (OSError, ValueError):
         old = {}
     events, sources = [], {}
-    for name, fn in [("ticketmaster", ticketmaster), ("inner_west", inner_west), ("northern_beaches", northern_beaches)]:
+    for name, fn in [("ticketmaster", ticketmaster), ("inner_west", inner_west), ("northern_beaches", northern_beaches),
+                     ("city_of_sydney", city_of_sydney), ("north_shore", north_shore), ("hills", hills), ("parramatta", parramatta),
+                     ("north_sydney", north_sydney), ("ku_ring_gai", ku_ring_gai)]:
         try:
             got, err = fn(), None
         except Exception as ex:  # one broken source must not stop the rest

@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>What’s on in Sydney</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Figtree:wght@400;500;600&display=swap">
+<style>
+:root{--bg:#f5f7f2;--surface:#fff;--ink:#16241b;--muted:#5b6b60;--line:#d9e0d6;--accent:#2b7a4b;--accent-ink:#fff;--k1:#2b7a4b;--k2:#b8741a;--k3:#3b6ea8;--k4:#8a4fa0;--k5:#c0492f;--k6:#1b8a8f;--warn:#7a4f00;--warnbg:#fff3d6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101713;--surface:#18221c;--ink:#e8efe9;--muted:#9bab9f;--line:#2a372e;--accent:#58b97f;--accent-ink:#0b1510;--k1:#58b97f;--k2:#e0a047;--k3:#7fb0e6;--k4:#c593d6;--k5:#ee8466;--k6:#5fcbd0;--warn:#f0c46a;--warnbg:#3a2f12;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#101713;--surface:#18221c;--ink:#e8efe9;--muted:#9bab9f;--line:#2a372e;--accent:#58b97f;--accent-ink:#0b1510;--k1:#58b97f;--k2:#e0a047;--k3:#7fb0e6;--k4:#c593d6;--k5:#ee8466;--k6:#5fcbd0;--warn:#f0c46a;--warnbg:#3a2f12;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px);background:var(--bg)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Figtree,system-ui,sans-serif}
+.awn{height:16px;background:repeating-linear-gradient(90deg,var(--accent) 0 32px,var(--surface) 32px 64px);border-radius:0 0 14px 14px;border-bottom:1px solid var(--line)}
+main{max-width:1000px;margin:0 auto;padding:20px 16px 40px}
+h1{font:700 clamp(28px,5vw,40px)/1.1 "Bricolage Grotesque",system-ui,sans-serif;margin:8px 0 4px}
+.sub{color:var(--muted);margin:0 0 16px}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;align-items:center}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 12px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+input[type=search]{flex:1 1 200px;min-width:150px;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+:focus-visible{outline:3px solid var(--k3);outline-offset:2px}
+.wrap{display:grid;gap:20px;margin-top:14px}
+@media(min-width:900px){.wrap{grid-template-columns:1.1fr 1fr;align-items:start}}
+.cal{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px}
+.nav{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
+.nav h2{margin:0;font:600 20px "Bricolage Grotesque",system-ui,sans-serif;flex:1;text-align:center}
+.nav button{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:10px;padding:6px 12px;font:inherit;cursor:pointer;min-height:36px}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.dow{text-align:center;font-size:12px;color:var(--muted);padding:2px 0}
+.day{aspect-ratio:1/1;min-height:44px;border:1px solid transparent;background:transparent;color:var(--ink);border-radius:10px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;font:inherit;cursor:pointer;padding:0}
+.day:hover{background:var(--bg)}
+.day.today{border-color:var(--accent)}
+.day[aria-pressed=true]{background:var(--accent);color:var(--accent-ink)}
+.day .n{font-weight:600}
+.day .c{font-size:11px;min-height:14px}
+.list h3{font:600 22px "Bricolage Grotesque",system-ui,sans-serif;margin:0}
+.cnt{color:var(--muted);margin:0 0 12px;min-height:24px}
+.grp{font:600 15px "Bricolage Grotesque",system-ui,sans-serif;color:var(--muted);margin:16px 0 8px}
+.card{background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--t);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.card h4{margin:0 0 2px;font:600 18px "Bricolage Grotesque",system-ui,sans-serif}
+.card p{margin:2px 0}
+.meta{color:var(--muted);font-size:14px}
+.pill{display:inline-block;font-size:12px;border:1px solid var(--t);color:var(--ink);border-radius:999px;padding:1px 10px;margin-top:6px}
+.warn{background:var(--warnbg);color:var(--warn);border-radius:8px;padding:6px 10px;font-size:13px;margin-top:8px!important}
+.links{margin-top:8px!important}
+.links a{color:var(--accent);margin-right:16px;font-size:14px;font-weight:500}
+.empty{color:var(--muted);padding:16px;border:1px dashed var(--line);border-radius:12px;margin:0}
+.foot{color:var(--muted);font-size:13px;margin-top:24px;max-width:70ch}
+</style>
+</head>
+<body>
+<div class="awn"></div>
+<main>
+<h1>What’s on in Sydney</h1>
+<p class="sub">Markets, food festivals, music, theatre and comedy. Pick a day to see what’s on.</p>
+<div class="ctl" id="A" role="group" aria-label="Area"></div>
+<div class="ctl" id="K" role="group" aria-label="Type"></div>
+<div class="ctl"><input type="search" id="Q" placeholder="Search by suburb, venue or name" aria-label="Search"></div>
+<div class="wrap">
+  <section class="cal" aria-label="Calendar">
+    <div class="nav"><button id="prev" aria-label="Previous month">Prev</button><h2 id="ttl"></h2><button id="today">Today</button><button id="next" aria-label="Next month">Next</button></div>
+    <div class="grid" id="grid"></div>
+  </section>
+  <section class="list" aria-live="polite">
+    <h3 id="head"></h3>
+    <p class="cnt" id="cnt"></p>
+    <div id="list"></div>
+  </section>
+</div>
+<p class="foot">Researched on 17 October 2026 from tourism, council, venue and community listings, covering the next few months. Markets and the hand-picked events are curated; the rest are collected automatically each night, so a gap doesn’t mean nothing is on. Items marked “Confirm first” are inferred or only partly confirmed. Check the organiser before you go.</p>
+<p class="foot" id="upd"></p>
+</main>
+<script>
+const K={market:["Markets","--k1"],food:["Food festivals","--k2"],music:["Music","--k3"],theatre:["Theatre","--k4"],comedy:["Comedy","--k5"],fest:["Festivals and events","--k6"]};
+const AREAS=["City","Inner West","East","Northern Beaches","Hills"];
+// d = weekday(s) 0 Sun..6 Sat, w = which occurrences in the month, u = last date; st/en = start/end dates; c = needs confirming
+const mk=(n,a,s,v,d,w,t,p,c)=>({k:"market",n,a,s,v,d,w,t,p,c});
+const rc=(k,n,a,s,v,d,t,x,c,u)=>({k,n,a,s,v,d,t,x,c,u});
+const ev=(k,n,a,s,v,st,en,t,x,c)=>({k,n,a,s,v,st,en,t,x,c});
+const D="venue and date are read from a listing site; confirm before booking.";
+let M=[
+mk("Glebe Markets","Inner West","Glebe","Glebe Public School, cnr Derby Pl and Glebe Point Rd",6,0,"10am–4pm","Craft and vintage"),
+mk("Balmain Market","Inner West","Balmain","St Andrew’s Congregational Church, cnr Darling St and Curtis Rd",6,0,"8:30am–4:30pm","Craft and vintage"),
+mk("Rozelle Collectors Market","Inner West","Rozelle","Rozelle Public School, 663 Darling St",6,0,"Morning to mid-afternoon","Craft and vintage","my sources didn’t state the day or hours; Saturday is assumed."),
+mk("Orange Grove Organic Food Markets","Inner West","Lilyfield","Orange Grove Public School, cnr Perry St and Balmain Rd",6,0,"8am–1pm","Food and produce"),
+mk("Marrickville Organic Food and Farmers Market","Inner West","Marrickville","Addison Road Community Centre, 142 Addison Rd",0,0,"Roughly 9am–2pm","Food and produce","sources disagree on opening hours."),
+mk("Flour Mill Markets","Inner West","Inner West (suburb to confirm)","Venue to confirm",0,[1,3],"Morning","Food and produce","1st and 3rd Sunday is confirmed, but venue and hours weren’t."),
+mk("Castle Hill Farmers and Fine Food Market","Hills","Castle Hill","Castle Hill Showground, Carrington Rd",6,[2,4],"8am–12pm","Food and produce"),
+mk("Dural Village Markets","Hills","Dural","Dural Country Club, 662a Old Northern Rd",0,[2],"9am–1pm","Food and produce"),
+mk("Glenorie Village Markets","Hills","Glenorie","Venue to confirm",0,[5],"9am–1pm","Food and produce","only runs in months with a 5th Sunday, and the venue wasn’t confirmed."),
+mk("The Hills UPMarket","Hills","Castle Hill","The Terraces, Castle Hill Showground",0,[4],"9am–2pm","Craft and vintage","4th Sunday is inferred from past dates."),
+mk("Sydney Boutique Markets","Hills","Rouse Hill","Main St, Rouse Hill Town Centre",0,[1],"Hours to confirm","Craft and vintage","1st Sunday is inferred from past dates."),
+mk("DownTown Markets","Hills","Pennant Hills","Wollundry Park",0,[3],"Hours to confirm","Mixed","3rd Sunday is inferred from past dates."),
+rc("comedy","The Comedy Store Sydney","East","Moore Park","Moore Park",[4,5,6],"Evening shows","","general guides say Thursday to Saturday; check the lineup for each night."),
+rc("comedy","The Running Joke","City","Potts Point","Level 1, Potts Point Hotel",2,"Evening","","weekly Tuesday shows come from a Time Out guide; check the pub’s listing."),
+rc("comedy","Bonkerz Comedy Club","City","Sydney CBD","George St (venue to confirm)",[5,6],"Evening","","Friday and Saturday nights come from a Time Out guide; the venue wasn’t named."),
+rc("fest","Stargazer Cinema","City","Barangaroo","Barangaroo Reserve",4,"Doors 6pm, film 7pm","Free","runs until 20 Nov; the start date wasn’t confirmed.","2026-11-20"),
+ev("theatre","My Fair Lady","City","Bennelong Point","Sydney Opera House","2026-09-12","2026-10-25","Check session times","","show name is matched from two listings; closing date is 25 or 30 Oct."),
+ev("theatre","SIX the Musical","City","Sydney","Theatre Royal Sydney, King St","2026-10-09","2026-11-22","Check session times","","show name is matched from two listings."),
+ev("theatre","A Beautiful Noise: The Neil Diamond Musical","City","Pyrmont","Sydney Lyric Theatre, The Star","2026-11-14","2026-12-31","Previews from 14 Nov","","closing date isn’t confirmed, so it’s shown to the end of December."),
+ev("food","Good Food Month","City","Various","Various venues across Sydney","2026-10-01","2026-10-31","Varies by event","","dates come from general listings; check the 2026 program for individual events."),
+ev("fest","Sculpture by the Sea","East","Bondi to Tamarama","Bondi to Tamarama coastal walk","2026-10-16","2026-11-02","Daytime","","most sources say 16 Oct to 2 Nov; one says 22 Oct to 8 Nov."),
+ev("food","Festa Norton Street","Inner West","Leichhardt","Norton St","2026-10-25",0,"10am–5pm","","the time comes from an older guide."),
+ev("fest","Oktoberfest at The Domain","City","The Domain","The Domain","2026-10-31",0,"Times to confirm","","the date comes from a venue listing page."),
+ev("fest","Sydney Open","City","Various","Heritage buildings across Sydney","2026-11-01",0,"10am–3:30pm (last entry)"),
+ev("market","Finders Keepers design market","City","Eveleigh","Carriageworks","2026-11-05","2026-11-08","Times to confirm"),
+ev("fest","Sydney International On-Water Boat Show","City","Sydney","Venue to confirm","2026-11-13","2026-11-16","Times to confirm","","the venue wasn’t named in my sources."),
+ev("music","Jack Johnson","City","The Domain","The Domain","2026-11-14",0,"Times to confirm","","artist and date are read from a venue listing page."),
+ev("music","Hot Dub Time Machine","City","The Domain","The Domain","2026-11-20",0,"Times to confirm","","artist and date are read from a venue listing page."),
+ev("music","Harbourlife","City","Mrs Macquarie’s Point","Fleet Steps, Mrs Macquarie’s Point","2026-11-21",0,"2pm–10pm","From $189.90, 18+"),
+ev("music","Kool & The Gang and Sister Sledge","City","Darling Harbour","Tumbalong Park","2026-11-27",0,"Times to confirm","","the "+D),
+ev("music","Anjunadeep Open Air Sydney","City","Darling Harbour","Tumbalong Park","2026-11-28",0,"Times to confirm","18+","the "+D),
+ev("music","Lime Cordiale with Pacific Avenue","City","Darling Harbour","Tumbalong Park","2026-11-29",0,"Times to confirm","","the "+D),
+ev("music","Ministry of Sound Summer Dance Festival","City","The Domain","The Domain","2026-12-05",0,"Times to confirm","","the date comes from a venue listing page."),
+ev("fest","Carols in the Domain","City","The Domain","The Domain","2026-12-19",0,"Times to confirm","","the date comes from a venue listing page."),
+ev("fest","Sydney to Hobart Yacht Race start","City","Sydney Harbour","Sydney Harbour","2026-12-26",0,"Race start","Free to watch"),
+ev("fest","New Year’s Eve fireworks","City","Sydney Harbour","Vantage points around the harbour","2026-12-31",0,"Fireworks at midnight","Free vantage points"),
+ev("fest","Port Jackson Regatta (16ft skiffs)","Northern Beaches","Manly","The Esplanade, Manly Cove","2026-10-17",0,"Daytime, until about 6pm"),
+ev("fest","Sail Expo 2026","Northern Beaches","Newport","RPAYC, 16 Mitala St, Newport","2026-10-17","2026-10-18","Times to confirm"),
+ev("fest","Northern Beaches Celebration of Filipino Culture","Northern Beaches","Northern Beaches","Venue to confirm","2026-10-18",0,"11:30am–4:30pm","","the council listing didn’t show the venue."),
+ev("market","Avalon Car Boot Sale","Northern Beaches","Avalon","Dunbar Park","2026-10-24",0,"8am–2pm","","only the 24 Oct date was checked; it may repeat on other dates."),
+ev("fest","Brookvale Halloween Festival","Northern Beaches","Brookvale","2–8 Old Pittwater Rd","2026-10-24",0,"2pm–7pm","Carnival games and food stalls"),
+ev("fest","Northern Beaches NYE family fireworks","Northern Beaches","Manly, Dee Why, Frenchs Forest","Council viewing sites","2026-12-31",0,"9pm","","the council lists these as an annual event; confirm sites and times.")
+];
+let sel=new Date();sel.setHours(0,0,0,0);
+let view=new Date(sel.getFullYear(),sel.getMonth(),1);
+let area="All",kind="All",q="";
+const $=id=>document.getElementById(id);
+const iso=d=>d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+const short=s=>new Date(s+"T00:00").toLocaleDateString("en-AU",{day:"numeric",month:"short"});
+const fmt=d=>d.toLocaleDateString("en-AU",{weekday:"long",day:"numeric",month:"long"});
+function st(m,d){
+  const i=iso(d);
+  if(m.d!==undefined){
+    if(![].concat(m.d).includes(d.getDay()))return 0;
+    if(m.w&&!m.w.includes(Math.ceil(d.getDate()/7)))return 0;
+    if(m.u&&i>m.u)return 0;
+    return "on";
+  }
+  if(i===m.st)return "on";
+  return m.en&&i>m.st&&i<=m.en?"run":0;
+}
+const ok=m=>(area==="All"||m.a===area)&&(kind==="All"||m.k===kind)&&(!q||(m.n+" "+m.s+" "+m.v+" "+K[m.k][0]).toLowerCase().includes(q));
+const dayCount=d=>M.filter(m=>ok(m)&&st(m,d)).length;
+function mkChips(el,opts,key){
+  el.innerHTML=opts.map(([v,l])=>`<button class="chip" data-v="${v}">${l}</button>`).join("");
+  el.onclick=e=>{const b=e.target.closest("button");if(!b)return;if(key==="a")area=b.dataset.v;else kind=b.dataset.v;draw()};
+}
+const sync=(el,val)=>el.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===val));
+const card=m=>`<article class="card" style="--t:var(${K[m.k][1]})"><h4>${m.n}</h4><p class="meta"><b>${m.s}</b>, ${m.t}${m.x?", "+m.x:""}</p><p class="meta">${m.v}</p>${m.en?`<p class="meta">Runs ${short(m.st)} to ${short(m.en)}</p>`:""}<span class="pill">${m.p||K[m.k][0]}</span>${m.c?`<p class="warn">Confirm first: ${m.c}</p>`:""}<p class="links"><a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(m.v+", "+m.s+" NSW")}" target="_blank" rel="noopener">Map</a>${m.u?`<a href="${m.u}" target="_blank" rel="noopener">Details</a>`:`<a href="https://www.google.com/search?q=${encodeURIComponent(m.n+" "+m.s)}" target="_blank" rel="noopener">Organiser site</a>`}</p></article>`;
+const grp=(t,L)=>L.length?`<p class="grp">${t}</p>`+L.sort((a,b)=>a.n.localeCompare(b.n)).map(card).join(""):"";
+function draw(refocus){
+  sync($("A"),area);sync($("K"),kind);
+  const y=view.getFullYear(),mo=view.getMonth();
+  $("ttl").textContent=view.toLocaleDateString("en-AU",{month:"long",year:"numeric"});
+  const lead=(new Date(y,mo,1).getDay()+6)%7,days=new Date(y,mo+1,0).getDate();
+  const today=new Date();today.setHours(0,0,0,0);
+  let h=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"].map(x=>`<div class="dow">${x}</div>`).join("")+"<div></div>".repeat(lead);
+  for(let i=1;i<=days;i++){
+    const d=new Date(y,mo,i),c=dayCount(d);
+    h+=`<button class="day${+d===+today?" today":""}" aria-pressed="${+d===+sel}" data-t="${+d}" aria-label="${fmt(d)}, ${c} thing${c===1?"":"s"} on"><span class="n">${i}</span><span class="c">${c||""}</span></button>`;
+  }
+  $("grid").innerHTML=h;
+  if(refocus){const b=$("grid").querySelector("[aria-pressed=true]");if(b)b.focus()}
+  const on=[],run=[];
+  M.forEach(m=>{if(!ok(m))return;const s=st(m,sel);if(s==="on")on.push(m);else if(s==="run")run.push(m)});
+  $("head").textContent=fmt(sel);
+  $("cnt").textContent=on.length+run.length?`${on.length} on, ${run.length} running`:"";
+  $("list").innerHTML=on.length+run.length?grp("On today",on)+grp("Also running",run):`<p class="empty">Nothing listed for this day with these filters. Try a weekend, a different type, or all areas.</p>`;
+}
+mkChips($("A"),[["All","All areas"]].concat(AREAS.map(a=>[a,a])),"a");
+mkChips($("K"),[["All","All types"]].concat(Object.keys(K).map(k=>[k,K[k][0]])),"k");
+$("Q").oninput=e=>{q=e.target.value.trim().toLowerCase();draw()};
+$("grid").onclick=e=>{const b=e.target.closest(".day");if(!b)return;sel=new Date(+b.dataset.t);draw(true)};
+$("prev").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()-1,1);draw()};
+$("next").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()+1,1);draw()};
+$("today").onclick=()=>{sel=new Date();sel.setHours(0,0,0,0);view=new Date(sel.getFullYear(),sel.getMonth(),1);draw()};
+const key=m=>(m.n||"").toLowerCase().replace(/[^a-z0-9]/g,"")+"|"+(m.st||"");
+fetch("events.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
+  if(!d||!d.events)return;
+  const seen=new Set(M.map(key));
+  d.events.forEach(e=>{if(!seen.has(key(e))){seen.add(key(e));M.push(e)}});
+  const bad=Object.entries(d.sources||{}).filter(([k,v])=>v.warning).map(([k,v])=>k.replace("_"," ")+": "+v.warning);
+  $("upd").textContent="Automatic listings updated "+new Date(d.updated).toLocaleDateString("en-AU",{day:"numeric",month:"long"})+(bad.length?". Check these sources: "+bad.join("; "):"")+".";
+  draw();
+}).catch(()=>{});
+draw();
+</script>
+</body>
+</html>

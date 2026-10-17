@@ -345,9 +345,10 @@ def main():
     except (OSError, ValueError):
         old = {}
     events, sources = [], {}
+    # Not run here: hills, parramatta and ku_ring_gai refuse automated visits (403 Forbidden), and the
+    # City of Sydney pages returned no events to this collector. Those are pulled by hand into manual-events.json.
     for name, fn in [("ticketmaster", ticketmaster), ("inner_west", inner_west), ("northern_beaches", northern_beaches),
-                     ("city_of_sydney", city_of_sydney), ("north_shore", north_shore), ("hills", hills), ("parramatta", parramatta),
-                     ("north_sydney", north_sydney), ("ku_ring_gai", ku_ring_gai)]:
+                     ("north_sydney", north_sydney)]:
         try:
             got, err = fn(), None
         except Exception as ex:  # one broken source must not stop the rest
@@ -372,7 +373,8 @@ def main():
             unique.append(e)
     with open("events.json", "w") as f:
         json.dump({"updated": dt.datetime.now(dt.timezone.utc).isoformat(), "sources": sources, "events": unique}, f, indent=1)
-    print({k: (v["count"], v["warning"]) for k, v in sources.items()})
+    for k, v in sources.items():
+        print(k, v["count"], v["warning"] or "ok", v["error"] or "")
 
 
 if __name__ == "__main__":

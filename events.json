@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T08:11:42.797766+00:00",
+ "updated": "2026-10-17T09:00:27.939204+00:00",
  "sources": {
   "ticketmaster": {
    "count": 266,
@@ -7,14 +7,44 @@
    "error": null
   },
   "inner_west": {
-   "count": 19,
+   "count": 23,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 23,
+   "count": 24,
    "warning": null,
    "error": null
+  },
+  "city_of_sydney": {
+   "count": 0,
+   "warning": "found nothing, showing older listings",
+   "error": null
+  },
+  "north_shore": {
+   "count": 0,
+   "warning": "found nothing, showing older listings",
+   "error": null
+  },
+  "hills": {
+   "count": 0,
+   "warning": "failed, showing older listings",
+   "error": "403 Client Error: Forbidden for url: https://www.thehills.nsw.gov.au/Upcoming-Events-Activities"
+  },
+  "parramatta": {
+   "count": 0,
+   "warning": "failed, showing older listings",
+   "error": "403 Client Error: Forbidden for url: https://www.cityofparramatta.nsw.gov.au/community/events/upcoming-events"
+  },
+  "north_sydney": {
+   "count": 16,
+   "warning": null,
+   "error": null
+  },
+  "ku_ring_gai": {
+   "count": 0,
+   "warning": "failed, showing older listings",
+   "error": "403 Client Error: Forbidden for url: https://www.krg.nsw.gov.au/Things-to-do/Whats-on"
   }
  },
  "events": [
@@ -29,6 +59,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/intertwined",
+   "src": "inner_west"
+  },
+  {
+   "k": "theatre",
+   "n": "Catch Me If You Can: The Musical",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-16",
+   "en": "2026-10-24",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/catch-me-if-you-can-musical",
    "src": "inner_west"
   },
   {
@@ -162,6 +205,71 @@
    "src": "northern_beaches"
   },
   {
+   "k": "fest",
+   "n": "THE YEAR IN TATTERS",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Rotary Crows Nest Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/52/rotary-crows-nest-market",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Loom Heaven Studio",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1675/loom-heaven-studio",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "DJ Boring",
    "a": "City",
@@ -241,6 +349,32 @@
   },
   {
    "k": "music",
+   "n": "Crows Nest Fest 2026",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1666/crows-nest-fest-2026",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "The Metal Space - Open Studio",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1672/the-metal-space-open-studio",
+   "src": "north_sydney"
+  },
+  {
+   "k": "music",
    "n": "Don McLean American Pie 55th Anniversary Tour",
    "a": "City",
    "s": "Sydney",
@@ -303,6 +437,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/men-at-work-sydney-20-10-2026/event/130064EEDD546409",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Teatro Voices",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-20",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
+   "src": "inner_west"
   },
   {
    "k": "music",
@@ -368,6 +515,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/theon-cross-summer-pearl/199100",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Music Together: Free Playgroup",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -721,6 +881,32 @@
    "src": "northern_beaches"
   },
   {
+   "k": "music",
+   "n": "A picnic at Balls Head: celebrating 100 years",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-24",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1722/a-picnic-at-balls-head-celebrating-100-years",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Kirribilli General & Fashion Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-24",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/422/kirribilli-general-fashion-market",
+   "src": "north_sydney"
+  },
+  {
    "k": "fest",
    "n": "Psychic Medium John Edward",
    "a": "City",
@@ -955,6 +1141,19 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "World Movies Screening: Britt-Marie Was Here",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-30",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1747/world-movies-screening-britt-marie-was-here",
+   "src": "north_sydney"
+  },
+  {
    "k": "comedy",
    "n": "Kitty Flanagan: Glad Game",
    "a": "City",
@@ -1135,6 +1334,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "AGENT X by Magickal Ms. G: a sci-fi jazz odyssey at PACT, Erskineville",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-04",
+   "en": "2026-11-07",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/agent-x-magickal-ms-g-a-sci-fi-jazz-odyssey-pact-erskineville",
+   "src": "inner_west"
   },
   {
    "k": "music",
@@ -1774,6 +1986,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "fest",
+   "n": "Gumnut Fair",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1770/gumnut-fair",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "Flyte (UK)",
    "a": "City",
@@ -1850,6 +2075,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/venna/196220",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-19",
+   "en": 0,
+   "t": "6pm\u20138pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
+   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -2019,6 +2257,19 @@
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/metal-space-christmas-market-celebrating-creativity",
    "src": "northern_beaches"
+  },
+  {
+   "k": "market",
+   "n": "Check In and Tune Up at Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/529/check-in-and-tune-up-at-northside-produce-market",
+   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -2253,6 +2504,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-28-11-2026/event/2500651AE02F5E56",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "North Sydney Streets: Kirribilli",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-28",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1570/north-sydney-streets-kirribilli",
+   "src": "north_sydney"
   },
   {
    "k": "comedy",
@@ -2528,6 +2792,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "market",
+   "n": "\u2018Behind the Scenes\u2019 Northside Produce Market Tours",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/610/-behind-the-scenes-northside-produce-market-tours",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "Dylan Gossett - The Headed Out Back Tour",
    "a": "City",
@@ -2578,6 +2855,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-06-12-2026/event/2500651AE1775F27",
    "src": "ticketmaster"
+  },
+  {
+   "k": "market",
+   "n": "The Coal Loader Artisans Christmas Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-06",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/416/the-coal-loader-artisans-christmas-market",
+   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -3657,6 +3947,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/sawyer-hill-everybody-s-home-nobody-s-happy-tour/196458",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "North Sydney Streets: CBD",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2027-02-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1571/north-sydney-streets-cbd",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",

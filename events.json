@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:19:32.885818+00:00",
+ "updated": "2026-10-19T16:27:31.561844+00:00",
  "sources": {
   "ticketmaster": {
    "count": 253,
@@ -7,7 +7,7 @@
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 19,
    "warning": null,
    "error": null
   },
@@ -35,58 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/catch-me-if-you-can-musical",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Don McLean American Pie 55th Anniversary Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-19",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/don-mclean-american-pie-55th-anniversary-sydney-19-10-2026/event/13006459D391CF4E",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Our Fairer Future Plan 2 - Speak with a Planner Lilyfield",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-19",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/our-fairer-future-plan-2-speak-a-planner-lilyfield-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "THE YEAR IN TATTERS",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-19",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-19",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -165,6 +113,32 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/build-your-brand-grow-your-business",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "THE YEAR IN TATTERS",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-20",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-20",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -531,19 +505,6 @@
    "src": "inner_west"
   },
   {
-   "k": "food",
-   "n": "Nationwide Nadi Rugby 7's Tournament",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "8am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nationwide-nadi-rugby-7s-tournament",
-   "src": "northern_beaches"
-  },
-  {
    "k": "market",
    "n": "Avalon Car Boot Sale",
    "a": "Northern Beaches",
@@ -554,6 +515,19 @@
    "t": "8am\u20132pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/avalon-car-boot-sale-event",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "food",
+   "n": "Nationwide Nadi Rugby 7's Tournament",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-10-24",
+   "en": 0,
+   "t": "8am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nationwide-nadi-rugby-7s-tournament",
    "src": "northern_beaches"
   },
   {
@@ -815,6 +789,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/dam-swindle-heist-recordings-nl-sydney-show/199192",
    "src": "ticketmaster"
+  },
+  {
+   "k": "market",
+   "n": "BestieFest Halloween",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-30",
+   "en": "2026-10-31",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/bestiefest-halloween",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -1997,6 +1984,19 @@
    "t": "5pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-22-11-2026/event/13006373871C5C35",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "NEW DATE | HAYWIRE (USA) Australian Tour - Sydney",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2026-11-22",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
    "src": "ticketmaster"
   },
   {

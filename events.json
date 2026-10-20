@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T16:27:31.561844+00:00",
+ "updated": "2026-10-20T16:27:46.521796+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 253,
+   "count": 255,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 19,
+   "count": 26,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 22,
+   "count": 23,
    "warning": null,
    "error": null
   },
@@ -35,110 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/catch-me-if-you-can-musical",
    "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-20-10-2026/event/1300632BBC134634",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Rebirth Brass Band (US) with Dink",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/rebirth-brass-band-us-with-dink/199496",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Men At Work",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/men-at-work-sydney-20-10-2026/event/130064EEDD546409",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Teatro Voices",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Social BBQ - Older Men's Mental Health",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/social-bbq-older-mens-mental-health",
-   "src": "inner_west"
-  },
-  {
-   "k": "market",
-   "n": "Build Your Brand, Grow Your Business",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/build-your-brand-grow-your-business",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "THE YEAR IN TATTERS",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-20",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -206,6 +102,32 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "THE YEAR IN TATTERS",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
+  },
+  {
    "k": "theatre",
    "n": "My Fair Lady (Australia)",
    "a": "City",
@@ -268,6 +190,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
+   "src": "inner_west"
+  },
+  {
+   "k": "theatre",
+   "n": "Thursday Night Laughs Presents \u201cOh Cecily\u201d",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-22",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/thursday-night-laughs-presents-oh-cecily",
    "src": "inner_west"
   },
   {
@@ -609,6 +544,32 @@
    "src": "ticketmaster"
   },
   {
+   "k": "food",
+   "n": "Norton Street Festa",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-25",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/norton-street-festa",
+   "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "The Cellists of The Metropolitan Orchestra",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-25",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/cellists-metropolitan-orchestra",
+   "src": "inner_west"
+  },
+  {
    "k": "fest",
    "n": "Palace of Dreams Guided Tours",
    "a": "City",
@@ -724,6 +685,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/ivy-thursdays-halloween-town-29th-october/200337",
    "src": "ticketmaster"
+  },
+  {
+   "k": "comedy",
+   "n": "Buddy's Comedy at Buddy's Bar Newtown",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-10-29",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/buddys-comedy-buddys-bar-newtown",
+   "src": "inner_west"
   },
   {
    "k": "theatre",
@@ -844,7 +818,7 @@
   },
   {
    "k": "music",
-   "n": "POOF DOOF Halloween Ball 2026 \ud83c\udf83\ud83e\udd87\ud83e\udea6 SYDNEY",
+   "n": "POOF DOOF Halloween Ball 2026 SYDNEY",
    "a": "City",
    "s": "Sydney",
    "v": "ivy Sydney",
@@ -919,6 +893,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/when-chai-met-toast-joy-rooms-tour-australia-2026/196143",
    "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Bel a cappella: Beyond the Stars",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-01",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/bel-a-cappella-beyond-stars",
+   "src": "inner_west"
   },
   {
    "k": "market",
@@ -997,6 +984,32 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
    "src": "ticketmaster"
+  },
+  {
+   "k": "comedy",
+   "n": "Marrickville Comedy Club at We Three",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-04",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/marrickville-comedy-club-we-three",
+   "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Nosferatu: A Psychedelic Cinema Experience",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-04",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/nosferatu-a-psychedelic-cinema-experience",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -1585,6 +1598,19 @@
   },
   {
    "k": "fest",
+   "n": "Ocean Minded Morning - An Ocean Festival 2026 event",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "7:30am\u20139am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-minded-morning-ocean-festival-2026-event",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
    "n": "Ocean Film Festival Under the Stars - Ocean Festival event",
    "a": "Northern Beaches",
    "s": "Northern Beaches",
@@ -1819,6 +1845,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry Invites AHADADREAM + JESSE MASS [NL]",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-20",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-ahadadream-jesse-mass-nl-/201671",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "Marcel Dettmann & Gerd Janson [GER]",
    "a": "City",
    "s": "Sydney",
@@ -1897,6 +1936,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry Invites RIRIA",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria/201673",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "Max Dean B2B Luke Dean",
    "a": "City",
    "s": "Sydney",
@@ -1920,6 +1972,32 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-21-11-2026/event/2500651AE02E5E4B",
    "src": "ticketmaster"
+  },
+  {
+   "k": "market",
+   "n": "Sydney Artisans Christmas Market",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": "2026-11-22",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-artisans-christmas-market",
+   "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Side Group Art FXhibition 2026",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": "2026-11-22",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/side-group-art-fxhibition-2026",
+   "src": "inner_west"
   },
   {
    "k": "market",
@@ -2050,6 +2128,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-24-11-2026/event/13006373871C5C37",
    "src": "ticketmaster"
+  },
+  {
+   "k": "food",
+   "n": "Head On Photo Festival: Australian Baroque Table",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-24",
+   "en": "2026-11-29",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/head-photo-festival-australian-baroque-table",
+   "src": "inner_west"
   },
   {
    "k": "comedy",
@@ -2400,6 +2491,19 @@
    "t": "6pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/wolf-alice-australian-tour-2026-sydney-04-12-2026/event/1300643EE746E004",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "MEMPHIS LK | \"Are You Holding On?\" Tour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2026-12-04",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/memphis-lk-are-you-holding-on-tour/201461",
    "src": "ticketmaster"
   },
   {
@@ -2777,6 +2881,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-11-12-2026/event/1300651FD08147AE",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Rukus Takeover @ OAF",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2026-12-11",
+   "en": 0,
+   "t": "11pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/rukus-takeover-oaf/201699",
    "src": "ticketmaster"
   },
   {
@@ -3843,6 +3960,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-15-02-2027/event/13006531B1BB58FD",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-17",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-17-02-2027/event/130065319E2F3DD5",
    "src": "ticketmaster"
   }
  ]

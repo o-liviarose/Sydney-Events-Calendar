@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-21T16:27:11.032885+00:00",
+ "updated": "2026-10-22T16:29:02.379975+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 257,
+   "count": 254,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 29,
+   "count": 27,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 24,
+   "count": 25,
    "warning": null,
    "error": null
   },
@@ -37,84 +37,6 @@
    "src": "inner_west"
   },
   {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-22-10-2026/event/1300632BBC134648",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Mountain Boy - The Nights Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/mountain-boy-the-nights-tour/195832",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Dee Dee Bridgewater Duo with Helen Sung",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/dee-dee-bridgewater-duo-with-helen-sydney-22-10-2026/event/13006497BF4F6868",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "ivy Thursdays - 22nd October",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ivy-thursdays-22nd-october/200336",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Shut Up and Write!",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
-   "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "Thursday Night Laughs Presents \u201cOh Cecily\u201d",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/thursday-night-laughs-presents-oh-cecily",
-   "src": "inner_west"
-  },
-  {
    "k": "fest",
    "n": "Sydney International Women\u2019s Jazz Festival",
    "a": "Inner West",
@@ -126,32 +48,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "THE YEAR IN TATTERS",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-22",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -256,6 +152,32 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/film-club",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "THE YEAR IN TATTERS",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-23",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-23",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -1454,6 +1376,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "theatre",
+   "n": "The Manly Festival of Short Plays 2026",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-12",
+   "en": "2026-11-21",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-festival-short-plays-2026",
+   "src": "northern_beaches"
+  },
+  {
    "k": "music",
    "n": "Ecca Vandal \u2018Looking For People to Unfollow\u2019 Album Tour",
    "a": "City",
@@ -1701,19 +1636,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
    "k": "market",
    "n": "FANS French Market at Killarney Heights Public School",
    "a": "Northern Beaches",
@@ -1724,6 +1646,19 @@
    "t": "9am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u201311am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
    "src": "northern_beaches"
   },
   {
@@ -3934,6 +3869,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/randy-feltface-gimmick-sydney-09-02-2027/event/130065188EBE167C",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Marlon Funaki - Australia Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-10",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/marlon-funaki-australia-tour-2027/201627",
    "src": "ticketmaster"
   },
   {

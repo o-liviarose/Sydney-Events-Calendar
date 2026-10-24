@@ -1,41 +1,28 @@
 {
- "updated": "2026-10-22T16:29:02.379975+00:00",
+ "updated": "2026-10-24T16:21:07.807708+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 254,
+   "count": 249,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 27,
+   "count": 23,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 25,
+   "count": 23,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 13,
+   "count": 12,
    "warning": null,
    "error": null
   }
  },
  "events": [
-  {
-   "k": "theatre",
-   "n": "Catch Me If You Can: The Musical",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-16",
-   "en": "2026-10-24",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/catch-me-if-you-can-musical",
-   "src": "inner_west"
-  },
   {
    "k": "fest",
    "n": "Sydney International Women\u2019s Jazz Festival",
@@ -48,318 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "HEAVENSGATE Australian Tour 2026\u00a0with special guests M\u00e9lancolia & Irken Armada",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/heavensgate-australian-tour-2026-with-special-guests-m-lancolia-irken-armada/199676",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Le Shiv - Yada Yada national album tour \u2013 SYDNEY",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-23-10-2026/event/1300632BBC13464A",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Kitty Flanagan: Glad Game",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-23-10-2026/event/1300646CCFC76D97",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites 8 YEARS OF LOVED + MAMI BY UMAMI",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-8-years-of-loved-mami-by-umami/200888",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "FRI 23 OCT - DJ DAVID CHOUMAN @ WAO SUPERCLUB",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "9:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/fri-23-oct-dj-david-chouman-wao-superclub/200738",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Soul Wun",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "11pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/soul-wun/197869",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Film club",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/film-club",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "THE YEAR IN TATTERS",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1396/the-year-in-tatters",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-23",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "2pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-24-10-2026/event/1300632BBC13464C",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Boy Soda 'SOULSTAR' World Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/boy-soda-soulstar-world-tour/196853",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Civic Video - \u2018Making Room For Others Tour\u2019",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Metro Theatre",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/civic-video-making-room-for-others-tour-/199474",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Kitty Flanagan: Glad Game",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-24-10-2026/event/1300646D9ECC5016",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites DEENS & FRIENDS + RAW FT TOMMY SHARP [NAARM/MELB]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-deens-friends-raw-ft-tommy-sharp-naarm-melb-/200890",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Our Fairer Future Plan 2 - Speak with a Planner Leichhardt",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/our-fairer-future-plan-2-speak-a-planner-leichhardt-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Electrify Inner West: Free home energy expo",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/electrify-inner-west-free-home-energy-expo",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Our Fairer Future Plan 2 - Speak with a Planner Petersham",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/our-fairer-future-plan-2-speak-a-planner-petersham-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "The Nicho Halloween Festival 2026",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/nicho-halloween-festival-2026",
-   "src": "inner_west"
-  },
-  {
-   "k": "market",
-   "n": "Avalon Car Boot Sale",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "8am\u20132pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/avalon-car-boot-sale-event",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "food",
-   "n": "Nationwide Nadi Rugby 7's Tournament",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "8am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nationwide-nadi-rugby-7s-tournament",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "food",
-   "n": "Brookvale Halloween Festival 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "2pm\u20137pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/brookvale-halloween-festival-2026",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "music",
-   "n": "A picnic at Balls Head: celebrating 100 years",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1722/a-picnic-at-balls-head-celebrating-100-years",
-   "src": "north_sydney"
-  },
-  {
-   "k": "market",
-   "n": "Kirribilli General & Fashion Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-24",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/422/kirribilli-general-fashion-market",
-   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -425,6 +100,32 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/cellists-metropolitan-orchestra",
    "src": "inner_west"
+  },
+  {
+   "k": "food",
+   "n": "Nationwide Nadi Rugby 7's Tournament",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-10-25",
+   "en": 0,
+   "t": "8am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nationwide-nadi-rugby-7s-tournament",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-25",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -570,8 +271,8 @@
    "src": "ticketmaster"
   },
   {
-   "k": "comedy",
-   "n": "Buddy's Comedy at Buddy's Bar Newtown",
+   "k": "fest",
+   "n": "Shut Up and Write!",
    "a": "Inner West",
    "s": "Inner West",
    "v": "See listing",
@@ -579,7 +280,7 @@
    "en": 0,
    "t": "See listing",
    "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/buddys-comedy-buddys-bar-newtown",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
    "src": "inner_west"
   },
   {
@@ -971,6 +672,19 @@
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/litter-clean-belrose-eagles-and-emu-parade",
    "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "After School Care Kindy Kids Open Day at North Sydney Community Centre",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1777/after-school-care-kindy-kids-open-day-at-north-sydney-community-centre",
+   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -2234,6 +1948,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Film club",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-27",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/film-club",
+   "src": "inner_west"
+  },
+  {
    "k": "music",
    "n": "All Day I Dream of Australia | Sydney",
    "a": "City",
@@ -2309,6 +2036,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/1570/north-sydney-streets-kirribilli",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Kirribilli General & Fashion Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-28",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/422/kirribilli-general-fashion-market",
    "src": "north_sydney"
   },
   {
@@ -3820,6 +3560,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Don\u2019t F**k With Disco",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-06",
+   "en": 0,
+   "t": "11pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/don-t-f-k-with-disco/201632",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3924,6 +3677,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Tijuana Cartel with Future Roots",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-02-12",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/tijuana-cartel-with-future-roots/201570",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -4025,6 +3791,84 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-18-02-2027/event/13006531B1BB5927",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-20",
+   "en": 0,
+   "t": "12:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-20-02-2027/event/13006531CB7E7C08",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "The Strokes - Reality Awaits",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Centennial Park",
+   "st": "2027-02-20",
+   "en": 0,
+   "t": "4:15pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/the-strokes-reality-awaits/200274",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Calvin Harris - Australia Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "The Domain",
+   "st": "2027-02-20",
+   "en": 0,
+   "t": "5pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-20-02-2027/event/1300652F8EFD20A3",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Winterbourne | 'We Have Not Disappeared' Tour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2027-02-20",
+   "en": 0,
+   "t": "6pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/winterbourne-we-have-not-disappeared-tour/200937",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-20",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-20-02-2027/event/13006531B1BC5936",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Calvin Harris - Australia Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "The Domain",
+   "st": "2027-02-21",
+   "en": 0,
+   "t": "5pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-21-02-2027/event/1300652FD003AABD",
    "src": "ticketmaster"
   }
  ]

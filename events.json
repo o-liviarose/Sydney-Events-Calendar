@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T16:21:29.427255+00:00",
+ "updated": "2026-10-26T16:41:06.647340+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 247,
+   "count": 246,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 20,
    "warning": null,
    "error": null
   },
@@ -17,7 +17,7 @@
    "error": null
   },
   "north_sydney": {
-   "count": 12,
+   "count": 13,
    "warning": null,
    "error": null
   }
@@ -35,45 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Palace of Dreams Guided Tours",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-26",
-   "en": 0,
-   "t": "1pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-26-10-2026/event/1300635BF489A347",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-26",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Palace of Dreams Guided Tours",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-27",
-   "en": 0,
-   "t": "10am",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-27-10-2026/event/1300635BF0B79F54",
-   "src": "ticketmaster"
   },
   {
    "k": "theatre",
@@ -100,6 +61,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-27",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -363,19 +337,6 @@
   },
   {
    "k": "fest",
-   "n": "Inner West Halloween Festival",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/inner-west-halloween-festival",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
    "n": "Halloween Street Party at NNC",
    "a": "Inner West",
    "s": "Inner West",
@@ -489,19 +450,6 @@
    "t": "10am",
    "x": "",
    "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-04-11-2026/event/1300635BF0B79F71",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Crack Cloud - Peace & Purpose",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-04",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/crack-cloud-peace-purpose/199494",
    "src": "ticketmaster"
   },
   {
@@ -727,7 +675,7 @@
   },
   {
    "k": "music",
-   "n": "BUDJERAH | Gentleman Tour",
+   "n": "CANCELLED | BUDJERAH | Gentleman Tour",
    "a": "City",
    "s": "Sydney",
    "v": "Metro Theatre",
@@ -735,7 +683,7 @@
    "en": 0,
    "t": "7:30pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/budjerah-gentleman-tour/197971",
+   "u": "https://www.moshtix.com.au/v2/event/cancelled-budjerah-gentleman-tour/197971",
    "src": "ticketmaster"
   },
   {
@@ -814,19 +762,6 @@
    "t": "4pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/mk/200659",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Talib Kweli (USA)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-08",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/talib-kweli-usa-/198926",
    "src": "ticketmaster"
   },
   {
@@ -2195,6 +2130,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "food",
+   "n": "Twilight Food Fair",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-04",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/830/twilight-food-fair",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "Ministry of Sound Summer Dance Festival - Sydney",
    "a": "City",
@@ -2881,6 +2829,19 @@
    "t": "2pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-christmas-spectacular-sydney-19-12-2026/event/13006505C5D94750",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "CRYPTIC SHIFT",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2026-12-19",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/cryptic-shift/201693",
    "src": "ticketmaster"
   },
   {
@@ -3830,6 +3791,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-22-02-2027/event/13006531B1BC594D",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Calvin Harris - Australia Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "The Domain",
+   "st": "2027-02-23",
+   "en": 0,
+   "t": "5pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-23-02-2027/event/13006537D87BBE48",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-23",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-23-02-2027/event/130065319E663ED8",
    "src": "ticketmaster"
   }
  ]

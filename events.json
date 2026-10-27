@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-26T16:41:06.647340+00:00",
+ "updated": "2026-10-27T16:41:47.443932+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 246,
+   "count": 250,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 21,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 22,
+   "count": 27,
    "warning": null,
    "error": null
   },
@@ -35,45 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-27",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-27-10-2026/event/1300632BBFCD4686",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Teatro Voices",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-27",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-27",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -126,6 +87,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-28",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "fest",
@@ -349,6 +323,19 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "Free Outrigger Canoe Open Day \u2013 Bayview",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-10-31",
+   "en": 0,
+   "t": "9am\u201310:30am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/free-outrigger-canoe-open-day-bayview",
+   "src": "northern_beaches"
+  },
+  {
    "k": "music",
    "n": "Sounds of Manly",
    "a": "Northern Beaches",
@@ -386,6 +373,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/when-chai-met-toast-joy-rooms-tour-australia-2026/196143",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Albert Parade Park Playground opening",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-01",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/albert-parade-park-playground-opening",
+   "src": "inner_west"
   },
   {
    "k": "music",
@@ -438,6 +438,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-03-11-2026/event/1300635BF0B79F6F",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Teatro Voices",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-03",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -597,6 +610,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry Invites BOUKI & FRIENDS [FULL VENUE TAKEOVER]",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-06",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-bouki-friends-full-venue-takeover-/201909",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "FRI 06 NOV - INT GUEST DJ HIGHNESS @ WAO SUPERCLUB",
    "a": "City",
    "s": "Sydney",
@@ -697,6 +723,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-07-11-2026/event/13006454AF2999C8",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Chinese Laundry | November 7",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-07",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-7/201910",
    "src": "ticketmaster"
   },
   {
@@ -1026,6 +1065,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry | November 13",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-13",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-13/201911",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "FRI 13 NOV - WAO SUPERCLUB @ IVY",
    "a": "City",
    "s": "Sydney",
@@ -1130,6 +1182,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry | November 14",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-14/201912",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "Above - Nov 14 ft. Gudfella",
    "a": "City",
    "s": "Sydney",
@@ -1169,6 +1234,19 @@
   },
   {
    "k": "fest",
+   "n": "Community Cinema Nights \u2013 Finding Nemo & Jaws",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "3:30pm\u20139pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/community-cinema-nights-finding-nemo-jaws",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
    "n": "Ocean Film Festival Under the Stars - Ocean Festival event",
    "a": "Northern Beaches",
    "s": "Northern Beaches",
@@ -1178,6 +1256,19 @@
    "t": "6pm\u20139:30pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-film-festival-under-stars-ocean-festival-event",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "theatre",
+   "n": "Musical Colours",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "7pm\u20138:30pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/musical-colours",
    "src": "northern_beaches"
   },
   {
@@ -1673,6 +1764,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-22-11-2026/event/2500651AE02E5E4F",
    "src": "ticketmaster"
+  },
+  {
+   "k": "food",
+   "n": "Northern Beaches Connective Feast",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-22",
+   "en": 0,
+   "t": "10am\u20132pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-connective-feast",
+   "src": "northern_beaches"
   },
   {
    "k": "theatre",
@@ -2219,6 +2323,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-05-12-2026/event/2500651AE1775F25",
    "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "The Shack Live Music Club",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-12-05",
+   "en": 0,
+   "t": "7:30pm\u201311:30pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/shack-live-music-club",
+   "src": "northern_beaches"
   },
   {
    "k": "market",
@@ -3817,6 +3934,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-23-02-2027/event/130065319E663ED8",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Calvin Harris - Australia Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "The Domain",
+   "st": "2027-02-24",
+   "en": 0,
+   "t": "5pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-24-02-2027/event/13006536E29698D0",
    "src": "ticketmaster"
   }
  ]

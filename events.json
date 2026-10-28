@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-27T16:41:47.443932+00:00",
+ "updated": "2026-10-28T16:42:45.250467+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 250,
+   "count": 248,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 20,
    "warning": null,
    "error": null
   },
@@ -42,76 +42,11 @@
    "a": "City",
    "s": "Sydney",
    "v": "State Theatre, Sydney",
-   "st": "2026-10-28",
-   "en": 0,
-   "t": "1pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-28-10-2026/event/1300635BF489A34B",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-28",
-   "en": 0,
-   "t": "1pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-28-10-2026/event/1300632BBFCD4688",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "SAN CISCO (DJ) + MORE",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Metro Theatre",
-   "st": "2026-10-28",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/san-cisco-dj-more/200211",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Music Together: Free Playgroup",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-28",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-28",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Palace of Dreams Guided Tours",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
    "st": "2026-10-29",
    "en": 0,
-   "t": "10am",
+   "t": "1pm",
    "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-29-10-2026/event/1300635BF0B79F5A",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-29-10-2026/event/1300635BF489A34D",
    "src": "ticketmaster"
   },
   {
@@ -165,6 +100,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/buddys-comedy-buddys-bar-newtown",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-29",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -727,7 +675,7 @@
   },
   {
    "k": "music",
-   "n": "Chinese Laundry | November 7",
+   "n": "CHINESE LAUNDRY INVITES UNDR CTRL 12TH BIRTHDAY [FULL VENUE TAKEOVER]",
    "a": "City",
    "s": "Sydney",
    "v": "Chinese Laundry",
@@ -735,7 +683,7 @@
    "en": 0,
    "t": "9pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-7/201910",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-undr-ctrl-12th-birthday-full-venue-takeover-/201910",
    "src": "ticketmaster"
   },
   {
@@ -1143,19 +1091,6 @@
   },
   {
    "k": "music",
-   "n": "Good Music House Party",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-14",
-   "en": 0,
-   "t": "6pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
    "n": "daine - the In Endless Awe & Agony tour (ALL AGES) ",
    "a": "City",
    "s": "Sydney",
@@ -1165,6 +1100,19 @@
    "t": "6pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Good Music House Party",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "6:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985",
    "src": "ticketmaster"
   },
   {
@@ -1311,19 +1259,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "market",
-   "n": "FANS French Market at Killarney Heights Public School",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
-   "src": "northern_beaches"
-  },
-  {
    "k": "fest",
    "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
    "a": "Northern Beaches",
@@ -1334,6 +1269,19 @@
    "t": "9am\u201311am",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "market",
+   "n": "FANS French Market at Killarney Heights Public School",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
    "src": "northern_beaches"
   },
   {
@@ -2072,7 +2020,7 @@
    "v": "Sydney Opera House - Forecourt",
    "st": "2026-12-01",
    "en": 0,
-   "t": "6pm",
+   "t": "5pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/rise-against-sydney-01-12-2026/event/130064A58E822523",
    "src": "ticketmaster"
@@ -3300,6 +3248,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "FLAMINGO PIER (LIVE). WOVEN TOGETHER ALBUM RELEASE TOUR.",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-01-21",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/flamingo-pier-live-woven-together-album-release-tour-/201798",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3570,6 +3531,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/seventh-wonder-performs-fleetwood-mac-orchestrated-sydney-06-02-2027/event/130064D6AEEC6A76",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "BL3SS - Sydney",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Civic Underground",
+   "st": "2027-02-06",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/bl3ss-sydney/201808",
    "src": "ticketmaster"
   },
   {
@@ -3947,6 +3921,19 @@
    "t": "5pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-24-02-2027/event/13006536E29698D0",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-25",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-25-02-2027/event/13006531B1BD59AE",
    "src": "ticketmaster"
   }
  ]

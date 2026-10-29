@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-28T16:42:45.250467+00:00",
+ "updated": "2026-10-29T16:44:05.335779+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 248,
+   "count": 246,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 22,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 27,
+   "count": 29,
    "warning": null,
    "error": null
   },
@@ -35,84 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Palace of Dreams Guided Tours",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "1pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-29-10-2026/event/1300635BF489A34D",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "1pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-29-10-2026/event/1300632BBFCD468C",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "ivy Thursdays Halloween Town - 29th October",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ivy-thursdays-halloween-town-29th-october/200337",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Shut Up and Write!",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
-   "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Buddy's Comedy at Buddy's Bar Newtown",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/buddys-comedy-buddys-bar-newtown",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-29",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -203,6 +125,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/1747/world-movies-screening-britt-marie-was-here",
+   "src": "north_sydney"
+  },
+  {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-30",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
    "src": "north_sydney"
   },
   {
@@ -336,6 +271,19 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "Pop up performances at Dulwich Hill Metro Station Plaza",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-01",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/pop-performances-dulwich-hill-metro-station-plaza",
+   "src": "inner_west"
+  },
+  {
    "k": "music",
    "n": "Bel a cappella: Beyond the Stars",
    "a": "Inner West",
@@ -427,6 +375,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "theatre",
+   "n": "Music Together: Free Playgroup",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-04",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
+   "src": "inner_west"
+  },
+  {
    "k": "comedy",
    "n": "Marrickville Comedy Club at We Three",
    "a": "Inner West",
@@ -503,6 +464,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Shut Up and Write!",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -776,6 +750,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-08-11-2026/event/2500651AE02C5E38",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Performances in Dulwich Hill pop-up",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-08",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/metro-performances-dulwich-hill2",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -1259,19 +1246,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
    "k": "market",
    "n": "FANS French Market at Killarney Heights Public School",
    "a": "Northern Beaches",
@@ -1282,6 +1256,19 @@
    "t": "9am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u201311am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
    "src": "northern_beaches"
   },
   {
@@ -1608,6 +1595,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/side-group-art-fxhibition-2026",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Boat Safety Open Day 2026",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "9am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/boat-safety-open-day-2026",
+   "src": "northern_beaches"
   },
   {
    "k": "market",
@@ -2936,6 +2936,19 @@
    "src": "inner_west"
   },
   {
+   "k": "comedy",
+   "n": "Christmas in The Grandparents Club",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-12-19",
+   "en": 0,
+   "t": "3pm\u20134:30pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-grandparents-club",
+   "src": "northern_beaches"
+  },
+  {
    "k": "theatre",
    "n": "THE CHRISTMAS SPECTACULAR",
    "a": "City",
@@ -3934,6 +3947,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-25-02-2027/event/13006531B1BD59AE",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Survive Said The Prophet (jpn) Debut Australian Tour 2027",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-26",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/survive-said-the-prophet-jpn-debut-australian-tour-2027/200616",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-26",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-26-02-2027/event/130065319E863F51",
    "src": "ticketmaster"
   }
  ]

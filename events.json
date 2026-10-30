@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-29T16:44:05.335779+00:00",
+ "updated": "2026-10-30T16:40:17.552721+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 246,
+   "count": 245,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 22,
+   "count": 21,
    "warning": null,
    "error": null
   },
@@ -35,110 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "My Fair Lady (Australia)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Sydney Opera House- Joan Sutherland Theatre",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-30-10-2026/event/1300632BBFCD4690",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Kitty Flanagan: Glad Game",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-30-10-2026/event/1300646D9F0C5078",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites 1-800 GIRLS [UK] + CARTER WALSH [NAARM/MELB]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-1-800-girls-uk-carter-walsh-naarm-melb-/200891",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "FRI 30 OCT - HALLOWEEN @ WAO SUPERCLUB",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/fri-30-oct-halloween-wao-superclub/196707",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Dam Swindle (Heist Recordings, NL) - Sydney Show",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "11pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/dam-swindle-heist-recordings-nl-sydney-show/199192",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "market",
-   "n": "BestieFest Halloween",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-30",
-   "en": "2026-10-31",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/bestiefest-halloween",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "World Movies Screening: Britt-Marie Was Here",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1747/world-movies-screening-britt-marie-was-here",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-30",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
   },
   {
    "k": "comedy",
@@ -232,6 +128,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "fest",
+   "n": "Ceramic art festival",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-10-31",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
+   "src": "north_sydney"
+  },
+  {
    "k": "theatre",
    "n": "Dance Poem - Great Harmony",
    "a": "City",
@@ -317,9 +226,9 @@
    "v": "State Theatre, Sydney",
    "st": "2026-11-02",
    "en": 0,
-   "t": "10am",
+   "t": "1pm",
    "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-02-11-2026/event/1300635BF0B79F5E",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-02-11-2026/event/1300635BF48AA351",
    "src": "ticketmaster"
   },
   {
@@ -1649,6 +1558,19 @@
    "src": "north_sydney"
   },
   {
+   "k": "fest",
+   "n": "Meet the Author & Illustrator! with Tim Harris and Christopher Nielsen",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1794/meet-the-author-illustrator-with-tim-harris-and-christopher-nielsen",
+   "src": "north_sydney"
+  },
+  {
    "k": "music",
    "n": "Lost Sundays - November 22 ft. Omar+, The Trip & Lewis Taylor",
    "a": "City",
@@ -2248,6 +2170,19 @@
   },
   {
    "k": "music",
+   "n": "DIZZEE RASCAL + SPECIAL GUEST ARRDEE ",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2026-12-05",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/dizzee-rascal-special-guest-arrdee/201977",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "LF SYSTEM | SYDNEY",
    "a": "City",
    "s": "Sydney",
@@ -2829,6 +2764,19 @@
    "t": "Times on listing",
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-16-12-2026/event/2500651AE17B5F3E",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "comedy",
+   "n": "Aaron Chen - Technology",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2026-12-17",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-17-12-2026/event/1300655AC77279D4",
    "src": "ticketmaster"
   },
   {
@@ -3973,6 +3921,45 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-26-02-2027/event/130065319E863F51",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-02-27",
+   "en": 0,
+   "t": "12:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-27-02-2027/event/13006531B1BD59B2",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Monsieur Camembert's Cohen Noir",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-02-27",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/monsieur-camemberts-cohen-noir-sydney-27-02-2027/event/13006556E811D2F0",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Bellaire [FR]",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-27",
+   "en": 0,
+   "t": "11pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/bellaire-fr-/201619",
    "src": "ticketmaster"
   }
  ]

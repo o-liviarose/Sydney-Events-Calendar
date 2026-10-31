@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-30T16:40:17.552721+00:00",
+ "updated": "2026-10-31T16:28:33.571564+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 245,
+   "count": 243,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 19,
    "warning": null,
    "error": null
   },
@@ -17,129 +17,12 @@
    "error": null
   },
   "north_sydney": {
-   "count": 13,
+   "count": 12,
    "warning": null,
    "error": null
   }
  },
  "events": [
-  {
-   "k": "fest",
-   "n": "Sydney International Women\u2019s Jazz Festival",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-22",
-   "en": "2026-10-31",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/sydney-international-womens-jazz-festival",
-   "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Kitty Flanagan: Glad Game",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-31-10-2026/event/1300646D9F4B50B6",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Residents | CLASS OF 2027 [GOING TILL 6AM] + OFF THE MAP [GARDEN + SAND TAKEOVER]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-residents-class-of-2027-going-till-6am-off-the-map-garden-sand-takeover-/200892",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "POOF DOOF Halloween Ball 2026 SYDNEY",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "10pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/poof-doof-halloween-ball-2026-sydney/198155",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Different Strokes Open Day",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/different-strokes-open-day",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Halloween Street Party at NNC",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/halloween-street-party-nnc",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Free Outrigger Canoe Open Day \u2013 Bayview",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "9am\u201310:30am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/free-outrigger-canoe-open-day-bayview",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "music",
-   "n": "Sounds of Manly",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "9am\u20135pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/sounds-manly",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Ceramic art festival",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-10-31",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1702/ceramic-art-festival",
-   "src": "north_sydney"
-  },
   {
    "k": "theatre",
    "n": "Dance Poem - Great Harmony",
@@ -204,6 +87,32 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/bel-a-cappella-beyond-stars",
    "src": "inner_west"
+  },
+  {
+   "k": "fest",
+   "n": "Free Outrigger Canoe Open Day \u2013 Bayview",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-01",
+   "en": 0,
+   "t": "9am\u201310:30am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/free-outrigger-canoe-open-day-bayview",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "music",
+   "n": "Sounds of Manly",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-01",
+   "en": 0,
+   "t": "9am\u20135pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/sounds-manly",
+   "src": "northern_beaches"
   },
   {
    "k": "market",
@@ -3960,6 +3869,19 @@
    "t": "11pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/bellaire-fr-/201619",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Kings of Leon",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Centennial Park",
+   "st": "2027-02-28",
+   "en": 0,
+   "t": "4:15pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/kings-of-leon/201554",
    "src": "ticketmaster"
   }
  ]

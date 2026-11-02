@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-01T16:29:21.002900+00:00",
+ "updated": "2026-11-02T16:55:12.508163+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 242,
+   "count": 244,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 15,
+   "count": 16,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 27,
+   "count": 26,
    "warning": null,
    "error": null
   },
@@ -29,24 +29,11 @@
    "a": "City",
    "s": "Sydney",
    "v": "State Theatre, Sydney",
-   "st": "2026-11-02",
+   "st": "2026-11-03",
    "en": 0,
    "t": "1pm",
    "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-02-11-2026/event/1300635BF48AA351",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Palace of Dreams Guided Tours",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-03",
-   "en": 0,
-   "t": "10am",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-03-11-2026/event/1300635BF0B79F6F",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-03-11-2026/event/1300635BF48AA353",
    "src": "ticketmaster"
   },
   {
@@ -1714,6 +1701,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Ausify Presents Pub Choir's Ultimate PDA, ft. AYO",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House - Forecourt",
+   "st": "2026-11-29",
+   "en": 0,
+   "t": "6pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/ausify-presents-pub-choirs-ultimate-pda-sydney-29-11-2026/event/1300655AEAD69B7D",
+   "src": "ticketmaster"
+  },
+  {
    "k": "fest",
    "n": "Wundrful World Of Christmas",
    "a": "City",
@@ -1857,17 +1857,17 @@
    "src": "ticketmaster"
   },
   {
-   "k": "music",
-   "n": "Christmas Choral Concert 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
+   "k": "fest",
+   "n": "ReelOzlnd! Australian and Indonesian Short Film Festival Screening",
+   "a": "Inner West",
+   "s": "Inner West",
    "v": "See listing",
    "st": "2026-12-03",
    "en": 0,
-   "t": "5pm\u20138pm",
+   "t": "See listing",
    "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-choral-concert-2026",
-   "src": "northern_beaches"
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/reelozlnd-australian-and-indonesian-short-film-festival-screening",
+   "src": "inner_west"
   },
   {
    "k": "music",
@@ -2439,6 +2439,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-12-12-2026/event/1300651FD08147B0",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Defected Sydney 2026",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2026-12-12",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/defected-sydney-2026/198268",
    "src": "ticketmaster"
   },
   {
@@ -3076,6 +3089,19 @@
    "t": "11pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/daniel-allan-australian-tour-2027/200082",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Ian Asher",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2027-01-23",
+   "en": 0,
+   "t": "3pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/ian-asher/202184",
    "src": "ticketmaster"
   },
   {
@@ -3804,6 +3830,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-01-03-2027/event/13006531B1BD59B4",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-02",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-02-03-2027/event/130065319EA43F69",
    "src": "ticketmaster"
   }
  ]

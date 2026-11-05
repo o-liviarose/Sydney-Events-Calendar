@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-04T16:48:22.050640+00:00",
+ "updated": "2026-11-05T17:00:03.387964+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 247,
+   "count": 255,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 15,
+   "count": 20,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 26,
+   "count": 25,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 12,
+   "count": 11,
    "warning": null,
    "error": null
   }
@@ -35,84 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/agent-x-magickal-ms-g-a-sci-fi-jazz-odyssey-pact-erskineville",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "ODETTE \u2018BLINK\u2019 TOUR 2026",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Andres Cepeda - Bogota: La Gira",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/andres-cepeda-bogota-la-gira-sydney-05-11-2026/event/130065278DAE1AA7",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "#1 DADS",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Shut Up and Write!",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Litter Clean up with Belrose Eagles and Emu Parade",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "4:30pm\u20135:30pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/litter-clean-belrose-eagles-and-emu-parade",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "After School Care Kindy Kids Open Day at North Sydney Community Centre",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-05",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1777/after-school-care-kindy-kids-open-day-at-north-sydney-community-centre",
-   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -960,6 +882,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "comedy",
+   "n": "Marrickville Comedy Club at We Three",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/marrickville-comedy-club-we-three",
+   "src": "inner_west"
+  },
+  {
    "k": "music",
    "n": "Ryan Harris Live in Sydney",
    "a": "City",
@@ -997,6 +932,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/venna/196220",
    "src": "ticketmaster"
+  },
+  {
+   "k": "market",
+   "n": "Go to Market: The Art of Startup Positioning",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-19",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/go-market-art-startup-positioning",
+   "src": "inner_west"
   },
   {
    "k": "theatre",
@@ -1376,6 +1324,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Haberfield 125th Anniversary Festival",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-22",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/haberfield-125th-anniversary-festival",
+   "src": "inner_west"
+  },
+  {
    "k": "food",
    "n": "Northern Beaches Connective Feast",
    "a": "Northern Beaches",
@@ -1503,6 +1464,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/vtss/198636",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLAT + ANDRE ZIMMER + PARTIGIRL",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2026-11-27",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allat-andre-zimmer-partigirl/202257",
    "src": "ticketmaster"
   },
   {
@@ -1805,6 +1779,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Disability Pride flag-raising and community celebration",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-03",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/disability-pride-flag-raising-and-community-celebration",
+   "src": "inner_west"
+  },
+  {
    "k": "fest",
    "n": "ReelOzlnd! Australian and Indonesian Short Film Festival Screening",
    "a": "Inner West",
@@ -2037,6 +2024,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-06-12-2026/event/2500651AE1775F27",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Revolutionary Dreaming",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-06",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/revolutionary-dreaming",
+   "src": "inner_west"
   },
   {
    "k": "market",
@@ -2429,6 +2429,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Spoonful",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-12",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/spoonful",
+   "src": "inner_west"
+  },
+  {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
    "a": "City",
@@ -2465,6 +2478,19 @@
    "t": "Times on listing",
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-13-12-2026/event/2500651AE17A5F37",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2026-12-14",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-14-12-2026/event/1300635BF0BA9FBB",
    "src": "ticketmaster"
   },
   {
@@ -2716,6 +2742,19 @@
   },
   {
    "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2026-12-21",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-21-12-2026/event/1300635BF0BB9FC7",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
    "n": "Wundrful World Of Christmas",
    "a": "City",
    "s": "Sydney",
@@ -2725,6 +2764,19 @@
    "t": "Times on listing",
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-21-12-2026/event/2500651AE17D5F4C",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2026-12-22",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-22-12-2026/event/1300635BF0BB9FCD",
    "src": "ticketmaster"
   },
   {
@@ -2807,6 +2859,19 @@
   },
   {
    "k": "music",
+   "n": "Chinese Laundry Invites IVY LAB [FAREWELL TOUR]",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2027-01-02",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-ivy-lab-farewell-tour-/202298",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "After",
    "a": "City",
    "s": "Sydney",
@@ -2855,6 +2920,19 @@
    "t": "9pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/run-the-numbers-ft-4am-kru-uk-/200201",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Chinese Laundry Invites DJ ZINC [UK]",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Chinese Laundry",
+   "st": "2027-01-08",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-dj-zinc-uk-/202299",
    "src": "ticketmaster"
   },
   {
@@ -3882,6 +3960,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-04-03-2027/event/130065319EBD3F77",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Diana Ross",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Centennial Park",
+   "st": "2027-03-05",
+   "en": 0,
+   "t": "4:15pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/diana-ross/202235",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-05",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-05-03-2027/event/13006531B1BF5A28",
    "src": "ticketmaster"
   }
  ]

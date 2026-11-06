@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:00:03.387964+00:00",
+ "updated": "2026-11-06T16:44:19.896400+00:00",
  "sources": {
   "ticketmaster": {
    "count": 255,
@@ -7,7 +7,7 @@
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 22,
    "warning": null,
    "error": null
   },
@@ -37,84 +37,6 @@
    "src": "inner_west"
   },
   {
-   "k": "music",
-   "n": "Charlie Jeer",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/charlie-jeer/197196",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Lawrence Mooney: Full Moon Party",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/lawrence-mooney-full-moon-party-sydney-06-11-2026/event/130064A5E60A88A0",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites BOUKI & FRIENDS [FULL VENUE TAKEOVER]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-bouki-friends-full-venue-takeover-/201909",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "FRI 06 NOV - INT GUEST DJ HIGHNESS @ WAO SUPERCLUB",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "9:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/fri-06-nov-int-guest-dj-highness-wao-superclub/201727",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "OCEAN WISDOM [UK]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "11pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ocean-wisdom-uk-/199727",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-06",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-06-11-2026/event/2500651AD2FB5512",
-   "src": "ticketmaster"
-  },
-  {
    "k": "fest",
    "n": "Public Schools Arts Festival",
    "a": "Inner West",
@@ -126,19 +48,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Ocean Festival - Marine Litter Bin to Win! (Manly)",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-06",
-   "en": "2026-11-11",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-festival-marine-litter-bin-to-win-manly",
-   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -464,6 +373,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Shut Up and Write!",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-12",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -1806,6 +1728,19 @@
   },
   {
    "k": "music",
+   "n": "Christmas Choral Concert 2026",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-12-03",
+   "en": 0,
+   "t": "5pm\u20138pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-choral-concert-2026",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "music",
    "n": "Wolf Alice | Australian Tour 2026",
    "a": "City",
    "s": "Sydney",
@@ -2053,7 +1988,7 @@
   },
   {
    "k": "market",
-   "n": "The Coal Loader Artisans Christmas Market",
+   "n": "The Coal Loader Christmas Artisans Market",
    "a": "North Shore",
    "s": "North Sydney",
    "v": "See listing",
@@ -2061,7 +1996,7 @@
    "en": 0,
    "t": "See listing",
    "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/416/the-coal-loader-artisans-christmas-market",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/416/the-coal-loader-christmas-artisans-market",
    "src": "north_sydney"
   },
   {
@@ -2427,6 +2362,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-12-12-2026/event/2500651AE17A5F35",
    "src": "ticketmaster"
+  },
+  {
+   "k": "market",
+   "n": "I Should Be So Crafty: Art and craft market",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-12",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/i-should-be-so-crafty-art-and-craft-market",
+   "src": "inner_west"
   },
   {
    "k": "fest",
@@ -2872,6 +2820,19 @@
   },
   {
    "k": "music",
+   "n": "Lost Sundays Block Party - January 3 ft. Ewan McVicar, Faster Horses, Riordan, Anetha, Benwal, Supergloss, DART, Helena Lauwaert, Soul Mass Transit System & more",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2027-01-03",
+   "en": 0,
+   "t": "2pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/lost-sundays-block-party-january-3-ft-ewan-mcvicar-faster-horses-riordan-anetha-benwal-supergloss-dart-helena-lauwaert-soul-mass-transit-system-more/202316",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "After",
    "a": "City",
    "s": "Sydney",
@@ -3037,6 +2998,19 @@
    "t": "12:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-16-01-2027/event/130065319C543AF1",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Sycco 'Look Up' Album Tour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-01-16",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/sycco-look-up-album-tour/202171",
    "src": "ticketmaster"
   },
   {
@@ -3986,6 +3960,58 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-05-03-2027/event/13006531B1BF5A28",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "RAGEFLOWER - The Split The Atom Tour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2027-03-05",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/rageflower-the-split-the-atom-tour/202233",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Smokie (UK) Greatest Hits Tour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-03-06",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/smokie-uk-greatest-hits-tour-sydney-06-03-2027/event/1300650BC5873D51",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-06",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-06-03-2027/event/130065319ED53F95",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Mardi Gras PARTY",
+   "a": "East",
+   "s": "Sydney",
+   "v": "Allianz Stadium",
+   "st": "2027-03-06",
+   "en": 0,
+   "t": "10pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/mardi-gras-party-sydney-06-03-2027/event/25006564A94C5658",
    "src": "ticketmaster"
   }
  ]

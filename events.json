@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-06T16:44:19.896400+00:00",
+ "updated": "2026-11-07T16:29:56.211248+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 255,
+   "count": 250,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 22,
+   "count": 19,
    "warning": null,
    "error": null
   },
@@ -25,19 +25,6 @@
  "events": [
   {
    "k": "fest",
-   "n": "AGENT X by Magickal Ms. G: a sci-fi jazz odyssey at PACT, Erskineville",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-04",
-   "en": "2026-11-07",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/agent-x-magickal-ms-g-a-sci-fi-jazz-odyssey-pact-erskineville",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
    "n": "Public Schools Arts Festival",
    "a": "Inner West",
    "s": "Inner West",
@@ -48,110 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Alta Falls - \u2018Don\u2019t Make Me A Number\u2019 EP Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/alta-falls-don-t-make-me-a-number-ep-tour/197420",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "CANCELLED | BUDJERAH | Gentleman Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Metro Theatre",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/cancelled-budjerah-gentleman-tour/197971",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Greg Davies: Full Fat Legend",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-07-11-2026/event/13006454AF2999C8",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "CHINESE LAUNDRY INVITES UNDR CTRL 12TH BIRTHDAY [FULL VENUE TAKEOVER]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-undr-ctrl-12th-birthday-full-venue-takeover-/201910",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-07-11-2026/event/2500651AE02C5E32",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Haberfield Men's Shed Open Day and Christmas Sale",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/haberfield-mens-shed-open-day-and-christmas-sale",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Inclusion Festival Short Film Hackathon",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/inclusion-festival-short-film-hackathon",
-   "src": "inner_west"
-  },
-  {
-   "k": "market",
-   "n": "Northside Produce Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-07",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
-   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -726,19 +609,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "market",
-   "n": "FANS French Market at Killarney Heights Public School",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
-   "src": "northern_beaches"
-  },
-  {
    "k": "fest",
    "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
    "a": "Northern Beaches",
@@ -749,6 +619,19 @@
    "t": "9am\u201311am",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "market",
+   "n": "FANS French Market at Killarney Heights Public School",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
    "src": "northern_beaches"
   },
   {
@@ -1152,6 +1035,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/529/check-in-and-tune-up-at-northside-produce-market",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
    "src": "north_sydney"
   },
   {

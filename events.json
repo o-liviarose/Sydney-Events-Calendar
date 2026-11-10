@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T16:56:57.898636+00:00",
+ "updated": "2026-11-10T16:43:42.089682+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 251,
+   "count": 252,
    "warning": null,
    "error": null
   },
@@ -12,7 +12,7 @@
    "error": null
   },
   "northern_beaches": {
-   "count": 24,
+   "count": 26,
    "warning": null,
    "error": null
   },
@@ -35,58 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Parkway Drive: Home - Feature Documentary World Premiere",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-10",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/parkway-drive-home-feature-documentary-world-sydney-10-11-2026/event/13006539D583E6F8",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Alex James' Britpop Classical Australian Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-10",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/alex-james-britpop-classical-australian-tour-sydney-10-11-2026/event/1300646FBF2681B7",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Teatro Voices",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-10",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Manly Snorkel Tour with Ecotreasures - an Ocean Festival event",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-10",
-   "en": 0,
-   "t": "9:30am\u201310:30am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-snorkel-tour-ecotreasures-ocean-festival-event",
-   "src": "northern_beaches"
   },
   {
    "k": "comedy",
@@ -177,6 +125,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-festival-bin-it-or-bring-it-dee-why",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Manly Snorkel Tour with Ecotreasures - an Ocean Festival event",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-12",
+   "en": 0,
+   "t": "9:30am\u201310:30am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-snorkel-tour-ecotreasures-ocean-festival-event",
    "src": "northern_beaches"
   },
   {
@@ -376,7 +337,7 @@
   },
   {
    "k": "music",
-   "n": "Chinese Laundry Invites DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
+   "n": "Chinese Laundry Invites REBOTAR TAKEOVER FT. DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
    "a": "City",
    "s": "Sydney",
    "v": "Chinese Laundry",
@@ -384,7 +345,7 @@
    "en": 0,
    "t": "9pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-django-nl-casual-p-friends-ft-c100/201912",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-rebotar-takeover-ft-django-nl-casual-p-friends-ft-c100/201912",
    "src": "ticketmaster"
   },
   {
@@ -1116,6 +1077,19 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "Inner West Disability Forum Community Festival and Showcase",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-24",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/inner-west-disability-forum-community-festival-and-showcase",
+   "src": "inner_west"
+  },
+  {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
    "a": "City",
@@ -1348,6 +1322,19 @@
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/422/kirribilli-general-fashion-market",
    "src": "north_sydney"
+  },
+  {
+   "k": "music",
+   "n": "Lost Sundays - November 29 ft. Morgan Seatree, Milion & NewTone",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2026-11-29",
+   "en": 0,
+   "t": "4pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/lost-sundays-november-29-ft-morgan-seatree-milion-newtone/201534",
+   "src": "ticketmaster"
   },
   {
    "k": "comedy",
@@ -1881,6 +1868,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-08-12-2026/event/2500651AE1785F2B",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Outsiders",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-12-08",
+   "en": 0,
+   "t": "6:30pm\u20138:45pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/outsiders",
+   "src": "northern_beaches"
   },
   {
    "k": "comedy",
@@ -3573,6 +3573,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Return to Rio Presents GUY J",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2027-02-21",
+   "en": 0,
+   "t": "3pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/return-to-rio-presents-guy-j/201947",
+   "src": "ticketmaster"
+  },
+  {
    "k": "comedy",
    "n": "Lucy Darling: Cheers",
    "a": "City",
@@ -3898,6 +3911,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Aloha Festival",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2027-03-06",
+   "en": "2027-03-16",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/aloha-festival",
+   "src": "northern_beaches"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3921,6 +3947,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-09-03-2027/event/130065319EF43FB8",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-10",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-10-03-2027/event/13006531B1C05ADC",
    "src": "ticketmaster"
   }
  ]

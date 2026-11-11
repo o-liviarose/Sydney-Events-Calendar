@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:43:42.089682+00:00",
+ "updated": "2026-11-11T16:55:59.940962+00:00",
  "sources": {
   "ticketmaster": {
    "count": 252,
@@ -7,17 +7,17 @@
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 21,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 26,
+   "count": 24,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 12,
+   "count": 13,
    "warning": null,
    "error": null
   }
@@ -35,58 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Dara O Briain - Re:Creation",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-11",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/dara-o-briain-recreation-sydney-11-11-2026/event/130064DED6625A08",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Music Together: Free Playgroup",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-11",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Warringah Printmakers Studio Annual Exhibition 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-11",
-   "en": "2026-11-22",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/warringah-printmakers-studio-annual-exhibition-2026",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Salty Brains Trivia - An Ocean Festival 2026 event",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-11",
-   "en": 0,
-   "t": "7pm\u20139pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/salty-brains-trivia-ocean-festival-2026-event",
-   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -466,19 +414,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
    "k": "market",
    "n": "FANS French Market at Killarney Heights Public School",
    "a": "Northern Beaches",
@@ -489,6 +424,19 @@
    "t": "9am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u201311am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
    "src": "northern_beaches"
   },
   {
@@ -531,6 +479,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "theatre",
+   "n": "Teatro Voices",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-17",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
+   "src": "inner_west"
+  },
+  {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
    "a": "City",
@@ -542,6 +503,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-18-11-2026/event/13006373871C5C2E",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Music Together: Free Playgroup",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
+   "src": "inner_west"
   },
   {
    "k": "comedy",
@@ -792,7 +766,7 @@
   },
   {
    "k": "music",
-   "n": "Chinese Laundry Invites RIRIA [JP] + LUCA GARCIA [DE]",
+   "n": "Chinese Laundry Invites RIRIA [JP] + METHOD PROJECT FT. LUCA GARCIA [DE] & MIXED METHODS",
    "a": "City",
    "s": "Sydney",
    "v": "Chinese Laundry",
@@ -800,7 +774,7 @@
    "en": 0,
    "t": "9pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria-jp-luca-garcia-de-/201673",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria-jp-method-project-ft-luca-garcia-de-mixed-methods/201673",
    "src": "ticketmaster"
   },
   {
@@ -1383,7 +1357,7 @@
    "v": "State Theatre, Sydney",
    "st": "2026-11-30",
    "en": 0,
-   "t": "7:30pm",
+   "t": "7pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/ann-wilson-tripsitter-the-voice-of-sydney-30-11-2026/event/130064FDBF62688F",
    "src": "ticketmaster"
@@ -1455,7 +1429,7 @@
   },
   {
    "k": "music",
-   "n": "KAMI KEHOE with special guests",
+   "n": "KAMI KEHOE with YAGKI",
    "a": "City",
    "s": "Sydney",
    "v": "Oxford Art Factory",
@@ -1463,7 +1437,7 @@
    "en": 0,
    "t": "7pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/kami-kehoe-with-special-guests/200220",
+   "u": "https://www.moshtix.com.au/v2/event/kami-kehoe-with-yagki/200220",
    "src": "ticketmaster"
   },
   {
@@ -2440,6 +2414,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-18-12-2026/event/2500651AE17C5F45",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "World Movies Screening: Driving Madeleine",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-18",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1809/world-movies-screening-driving-madeleine",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -3960,6 +3947,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-10-03-2027/event/13006531B1C05ADC",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-11",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-11-03-2027/event/130065319F093FD7",
    "src": "ticketmaster"
   }
  ]

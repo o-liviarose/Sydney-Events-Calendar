@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T16:55:59.940962+00:00",
+ "updated": "2026-11-12T16:54:04.051923+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 252,
+   "count": 249,
    "warning": null,
    "error": null
   },
@@ -12,12 +12,12 @@
    "error": null
   },
   "northern_beaches": {
-   "count": 24,
+   "count": 21,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 13,
+   "count": 14,
    "warning": null,
    "error": null
   }
@@ -35,84 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Ecca Vandal \u2018Looking For People to Unfollow\u2019 Album Tour | SECOND SHOW ADDED",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-12",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Shut Up and Write!",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-12",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Ocean Festival - Bin It. Or Bring It (Dee Why)",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-12",
-   "en": "2026-11-15",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-festival-bin-it-or-bring-it-dee-why",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Manly Snorkel Tour with Ecotreasures - an Ocean Festival event",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-12",
-   "en": 0,
-   "t": "9:30am\u201310:30am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-snorkel-tour-ecotreasures-ocean-festival-event",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Meet the Northern Beaches\u2019 Little Penguins - An Ocean Festival event",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-12",
-   "en": 0,
-   "t": "6:30pm\u20137:30pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/meet-northern-beaches-little-penguins-ocean-festival-event",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "theatre",
-   "n": "The Manly Festival of Short Plays 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-12",
-   "en": "2026-11-21",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-festival-short-plays-2026",
-   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -272,19 +194,6 @@
   },
   {
    "k": "music",
-   "n": "The Bootleg Beatles and their Orchestra In Concert",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-14",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/the-bootleg-beatles-and-their-orchestra-sydney-14-11-2026/event/130062D9B16629FA",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
    "n": "Chinese Laundry Invites REBOTAR TAKEOVER FT. DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
    "a": "City",
    "s": "Sydney",
@@ -333,6 +242,19 @@
    "t": "7:30am\u20139am",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/ocean-minded-morning-ocean-festival-2026-event",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Manly Snorkel Tour with Ecotreasures - an Ocean Festival event",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-14",
+   "en": 0,
+   "t": "9:30am\u201310:30am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/manly-snorkel-tour-ecotreasures-ocean-festival-event",
    "src": "northern_beaches"
   },
   {
@@ -414,6 +336,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u201311am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
+   "src": "northern_beaches"
+  },
+  {
    "k": "market",
    "n": "FANS French Market at Killarney Heights Public School",
    "a": "Northern Beaches",
@@ -428,19 +363,6 @@
   },
   {
    "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
    "n": "Gumnut Fair",
    "a": "North Shore",
    "s": "North Sydney",
@@ -450,6 +372,19 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/1770/gumnut-fair",
+   "src": "north_sydney"
+  },
+  {
+   "k": "food",
+   "n": "Persian Food Festival - Yarra Foundation",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1819/persian-food-festival-yarra-foundation",
    "src": "north_sydney"
   },
   {
@@ -568,6 +503,19 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/venna/196220",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Shut Up and Write!",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-19",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
+   "src": "inner_west"
   },
   {
    "k": "market",
@@ -1507,19 +1455,6 @@
   },
   {
    "k": "music",
-   "n": "Christmas Choral Concert 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-12-03",
-   "en": 0,
-   "t": "5pm\u20138pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-choral-concert-2026",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "music",
    "n": "Wolf Alice | Australian Tour 2026",
    "a": "City",
    "s": "Sydney",
@@ -1539,7 +1474,7 @@
    "v": "Metro Theatre",
    "st": "2026-12-04",
    "en": 0,
-   "t": "7:30pm",
+   "t": "8pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/memphis-lk-are-you-holding-on-tour/201461",
    "src": "ticketmaster"
@@ -1815,19 +1750,6 @@
    "t": "7pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/locked-shut-usa-with-special-guests/199916",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Eric Idle - An Evening of Idle Conversation",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-12-08",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/eric-idle-an-evening-of-idle-sydney-08-12-2026/event/13006532B3CA69E7",
    "src": "ticketmaster"
   },
   {
@@ -3090,6 +3012,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-30-01-2027/event/130065319CF73C3D",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The NBYT YA Short Play Festival",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2027-01-30",
+   "en": 0,
+   "t": "1pm\u20133pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/nbyt-ya-short-play-festival",
+   "src": "northern_beaches"
   },
   {
    "k": "theatre",

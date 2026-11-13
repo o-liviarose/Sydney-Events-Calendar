@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-12T16:54:04.051923+00:00",
+ "updated": "2026-11-13T16:46:45.261206+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 249,
+   "count": 254,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 22,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 21,
+   "count": 20,
    "warning": null,
    "error": null
   },
@@ -35,110 +35,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "Ecca Vandal \u2018Looking For People to Unfollow\u2019 Album Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour/195987",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "THE TULLAMARINES 2026 TOUR",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "daine - the In Endless Awe & Agony tour (18+) ",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Metro Theatre",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-/197886",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Sir El Tom",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites MiNNA (UK) [ALL NIGHT LONG] + BNX & FRIENDS TAKEOVER",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-minna-uk-all-night-long-bnx-friends-takeover/201911",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "FRI 13 NOV - WAO SUPERCLUB @ IVY",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "9:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/fri-13-nov-wao-superclub-ivy/201728",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-13-11-2026/event/2500651AE02C5E3A",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Living Seawalls Tour - An Ocean Festival 2026 event",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-13",
-   "en": 0,
-   "t": "4pm\u20135pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/living-seawalls-tour-ocean-festival-2026-event",
-   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -336,19 +232,6 @@
    "src": "ticketmaster"
   },
   {
-   "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
    "k": "market",
    "n": "FANS French Market at Killarney Heights Public School",
    "a": "Northern Beaches",
@@ -359,6 +242,19 @@
    "t": "9am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-15",
+   "en": 0,
+   "t": "9am\u201311am",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
    "src": "northern_beaches"
   },
   {
@@ -1091,7 +987,7 @@
   },
   {
    "k": "music",
-   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLAT + ANDRE ZIMMER + PARTIGIRL",
+   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLATT + ANDRE ZIMMER + PARTIGIRL",
    "a": "City",
    "s": "Sydney",
    "v": "Chinese Laundry",
@@ -1099,7 +995,7 @@
    "en": 0,
    "t": "9pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allat-andre-zimmer-partigirl/202257",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allatt-andre-zimmer-partigirl/202257",
    "src": "ticketmaster"
   },
   {
@@ -2300,6 +2196,19 @@
   },
   {
    "k": "music",
+   "n": "#beenwasted",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2026-12-18",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/-beenwasted/202520",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "Hard-Ons Xmas Shows (3-piece)",
    "a": "City",
    "s": "Sydney",
@@ -2624,6 +2533,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Charlotte Plank",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-01-05",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/charlotte-plank/202543",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "La Boheme",
    "a": "City",
@@ -2725,6 +2647,19 @@
    "t": "7pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/matt-mathews-not-what-i-ordered-sydney-14-01-2027/event/130064AEA9667931",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "The Preatures :: All Roads Lead to OAF",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-01-14",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/the-preatures-all-roads-lead-to-oaf/202537",
    "src": "ticketmaster"
   },
   {
@@ -3066,6 +3001,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Zion Garcia :: All Roads Lead to OAF ",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-04",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/zion-garcia-all-roads-lead-to-oaf/202563",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3128,6 +3076,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/seventh-wonder-performs-fleetwood-mac-orchestrated-sydney-06-02-2027/event/130064D6AEEC6A76",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Starjunk 95",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-02-06",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/starjunk-95/202326",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "RA RA VIPER",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2027-02-06",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/ra-ra-viper/202539",
    "src": "ticketmaster"
   },
   {
@@ -3742,6 +3716,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Cloud Control :: All Roads Lead to OAF",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-04",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/cloud-control-all-roads-lead-to-oaf/202564",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "La Boheme",
    "a": "City",
@@ -3846,6 +3833,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "music",
+   "n": "DOVE ELLIS",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-08",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/dove-ellis/202600",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3856,6 +3856,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-08-03-2027/event/13006531B1BF5A4A",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Jameela Jamil",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-03-08",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/jameela-jamil-sydney-08-03-2027/event/130065698F2A4BEA",
    "src": "ticketmaster"
   },
   {
@@ -3895,6 +3908,45 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-11-03-2027/event/130065319F093FD7",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-13",
+   "en": 0,
+   "t": "12:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-13-03-2027/event/13006531B1C05B12",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "La Boheme",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-13",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/la-boheme-sydney-13-03-2027/event/130065319F2E3FFE",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "The Fab Four",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-03-13",
+   "en": 0,
+   "t": "8pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-fab-four-sydney-13-03-2027/event/130064A5E7D989B9",
    "src": "ticketmaster"
   }
  ]

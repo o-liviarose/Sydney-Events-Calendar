@@ -1,132 +1,28 @@
 {
- "updated": "2026-11-14T16:30:38.887672+00:00",
+ "updated": "2026-11-15T16:32:13.752193+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 247,
+   "count": 244,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 20,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 15,
+   "count": 13,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 14,
+   "count": 12,
    "warning": null,
    "error": null
   }
  },
  "events": [
-  {
-   "k": "fest",
-   "n": "Public Schools Arts Festival",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-06",
-   "en": "2026-11-15",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/public-schools-arts-festival",
-   "src": "inner_west"
-  },
-  {
-   "k": "music",
-   "n": "James Morrison with Special Guest Mahalia Barnes",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "4pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "IRON MAIDEN - RUN FOR YOUR LIVES - WORLD TOUR 2026",
-   "a": "East",
-   "s": "Sydney",
-   "v": "Allianz Stadium",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "5:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-15-11-2026/event/2500651AE02D5E42",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Breakfast by the Bay: Meet the Friends of Cabbage Tree Bay",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u201311am",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/breakfast-bay-meet-friends-cabbage-tree-bay",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "market",
-   "n": "FANS French Market at Killarney Heights Public School",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "9am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/fans-french-market-killarney-heights-public-school",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Gumnut Fair",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1770/gumnut-fair",
-   "src": "north_sydney"
-  },
-  {
-   "k": "food",
-   "n": "Persian Food Festival - Yarra Foundation",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-15",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1819/persian-food-festival-yarra-foundation",
-   "src": "north_sydney"
-  },
   {
    "k": "music",
    "n": "Flyte (UK)",

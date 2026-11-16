@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-15T16:32:13.752193+00:00",
+ "updated": "2026-11-16T17:04:44.954517+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 244,
+   "count": 245,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 19,
    "warning": null,
    "error": null
   },
@@ -23,19 +23,6 @@
   }
  },
  "events": [
-  {
-   "k": "music",
-   "n": "Flyte (UK)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-16",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/flyte-uk-/195420",
-   "src": "ticketmaster"
-  },
   {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
@@ -295,6 +282,19 @@
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/where-wild-things-live",
    "src": "northern_beaches"
+  },
+  {
+   "k": "music",
+   "n": "Gravagerz | SYDNEY (SOLD OUT)",
+   "a": "City",
+   "s": "Sydney",
+   "v": "SEADECK",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "12:45pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/gravagerz-sydney-sold-out-/198368",
+   "src": "ticketmaster"
   },
   {
    "k": "music",
@@ -568,19 +568,6 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-22-11-2026/event/2500651AE02E5E4F",
    "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Haberfield 125th Anniversary Festival",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-22",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/haberfield-125th-anniversary-festival",
-   "src": "inner_west"
   },
   {
    "k": "food",
@@ -961,7 +948,7 @@
   },
   {
    "k": "music",
-   "n": "THE HOME TEAM (USA)",
+   "n": "THE HOME TEAM (USA) with CLOSURE",
    "a": "City",
    "s": "Sydney",
    "v": "Oxford Art Factory",
@@ -969,7 +956,7 @@
    "en": 0,
    "t": "7pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/the-home-team-usa-/200223",
+   "u": "https://www.moshtix.com.au/v2/event/the-home-team-usa-with-closure/200223",
    "src": "ticketmaster"
   },
   {
@@ -3573,19 +3560,6 @@
    "src": "northern_beaches"
   },
   {
-   "k": "music",
-   "n": "DOVE ELLIS",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2027-03-08",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/dove-ellis/202600",
-   "src": "ticketmaster"
-  },
-  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3609,6 +3583,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/jameela-jamil-sydney-08-03-2027/event/130065698F2A4BEA",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "DOVE ELLIS",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-08",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/dove-ellis/202600",
    "src": "ticketmaster"
   },
   {
@@ -3687,6 +3674,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/the-fab-four-sydney-13-03-2027/event/130064A5E7D989B9",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Gia Margaret (USA)",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-03-16",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/gia-margaret-usa-/202068",
    "src": "ticketmaster"
   }
  ]

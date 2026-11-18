@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-17T23:22:13.226150+00:00",
+ "updated": "2026-11-18T22:52:16.338586+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 261,
+   "count": 265,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 19,
+   "count": 20,
    "warning": null,
    "error": null
   },
@@ -23,45 +23,6 @@
   }
  },
  "events": [
-  {
-   "k": "comedy",
-   "n": "Carl Barron: Just Wondering Why",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-18",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-18-11-2026/event/13006373871C5C2E",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Music Together: Free Playgroup",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-18",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
-   "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Marrickville Comedy Club at We Three",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-18",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/marrickville-comedy-club-we-three",
-   "src": "inner_west"
-  },
   {
    "k": "music",
    "n": "Ryan Harris Live in Sydney",
@@ -636,6 +597,19 @@
   },
   {
    "k": "theatre",
+   "n": "Music Together: Free Playgroup",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-25",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
+   "src": "inner_west"
+  },
+  {
+   "k": "theatre",
    "n": "Teatro Voices",
    "a": "Inner West",
    "s": "Inner West",
@@ -869,6 +843,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "music",
+   "n": "Gospel choir concert for the homeless",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-28",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/gospel-choir-concert-homeless",
+   "src": "inner_west"
+  },
+  {
    "k": "fest",
    "n": "North Sydney Streets: Kirribilli",
    "a": "North Shore",
@@ -1049,6 +1036,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-02-12-2026/event/2500651AE1765F1B",
    "src": "ticketmaster"
+  },
+  {
+   "k": "comedy",
+   "n": "Marrickville Comedy Club at We Three",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-02",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/marrickville-comedy-club-we-three",
+   "src": "inner_west"
   },
   {
    "k": "music",
@@ -1663,6 +1663,19 @@
   },
   {
    "k": "music",
+   "n": "FRI 11 DEC - WAO BLACK CHAPTER 11 @ WAO SUPERCLUB",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2026-12-11",
+   "en": 0,
+   "t": "9:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/fri-11-dec-wao-black-chapter-11-wao-superclub/202812",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "Rukus Takeover @ OAF",
    "a": "City",
    "s": "Sydney",
@@ -2101,6 +2114,19 @@
    "t": "9pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/chaos-in-the-cbd-all-night-long-in-dust-we-trust/201234",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "FRI 18 DEC - INT GUEST DJ TERRY @ WAO SUPERCLUB",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2026-12-18",
+   "en": 0,
+   "t": "9:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/fri-18-dec-int-guest-dj-terry-wao-superclub/202813",
    "src": "ticketmaster"
   },
   {
@@ -2621,6 +2647,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-16-01-2027/event/13006531A04C418D",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "LOWERTOWN",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Metro Theatre",
+   "st": "2027-01-19",
+   "en": 0,
+   "t": "6pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/lowertown/202743",
    "src": "ticketmaster"
   },
   {
@@ -3895,6 +3934,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-17-03-2027/event/130065319F5D403D",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-18",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-18-03-2027/event/13006531B1C05B1A",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Falling & Flying 15 year Anniversary",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-03-18",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/202214",
    "src": "ticketmaster"
   }
  ]

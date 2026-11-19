@@ -1,119 +1,28 @@
 {
- "updated": "2026-11-18T22:52:16.338586+00:00",
+ "updated": "2026-11-19T22:55:48.061456+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 265,
+   "count": 264,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 19,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 13,
+   "count": 15,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 12,
+   "count": 13,
    "warning": null,
    "error": null
   }
  },
  "events": [
-  {
-   "k": "music",
-   "n": "Ryan Harris Live in Sydney",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ryan-harris-live-in-sydney/196620",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "An Evening with Alastair Campbell",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/an-evening-with-alastair-campbell-sydney-19-11-2026/event/130064F0DAF87439",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Venna",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/venna/196220",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "ivy Thursdays ft Bbyclose - 19th November",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/ivy-thursdays-ft-bbyclose-19th-november/201865",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Shut Up and Write!",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
-   "src": "inner_west"
-  },
-  {
-   "k": "market",
-   "n": "Go to Market: The Art of Startup Positioning",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/go-market-art-startup-positioning",
-   "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-19",
-   "en": 0,
-   "t": "6pm\u20138pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
-   "src": "northern_beaches"
-  },
   {
    "k": "music",
    "n": "Hot Dub on the Harbour 2026",
@@ -388,6 +297,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "theatre",
+   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "2pm\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
+   "src": "northern_beaches"
+  },
+  {
    "k": "market",
    "n": "The Metal Space Christmas Market \u2013 Celebrating Creativity",
    "a": "Northern Beaches",
@@ -648,6 +570,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Shut Up and Write!",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-11-26",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
+   "src": "inner_west"
+  },
+  {
    "k": "music",
    "n": "SLY WITHERS - TBH ALBUM TOUR",
    "a": "City",
@@ -763,6 +698,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/inclusion-festival",
    "src": "inner_west"
+  },
+  {
+   "k": "market",
+   "n": "Anchored",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-27",
+   "en": "2026-11-29",
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/anchored",
+   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -1114,6 +1062,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/reelozlnd-australian-and-indonesian-short-film-festival-screening",
    "src": "inner_west"
+  },
+  {
+   "k": "music",
+   "n": "Christmas Choral Concert 2026",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-12-03",
+   "en": 0,
+   "t": "5pm\u20138pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-choral-concert-2026",
+   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -3961,6 +3922,58 @@
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/202214",
    "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "An evening with CELTIC THUNDER",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-03-19",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/an-evening-with-celtic-thunder-sydney-19-03-2027/event/1300653180891D62",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Jamie McIntyre",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-19",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/jamie-mcintyre/201913",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Falling & Flying 15 Year Anniversary",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-03-19",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201485",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "North Sydney Streets: Crows Nest",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2027-03-20",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/1572/north-sydney-streets-crows-nest",
+   "src": "north_sydney"
   }
  ]
 }

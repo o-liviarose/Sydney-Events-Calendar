@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-19T22:55:48.061456+00:00",
+ "updated": "2026-11-20T22:30:24.500897+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 264,
+   "count": 271,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 19,
+   "count": 21,
    "warning": null,
    "error": null
   },
@@ -18,128 +18,11 @@
   },
   "north_sydney": {
    "count": 13,
-   "warning": null,
+   "warning": "found nothing, showing older listings",
    "error": null
   }
  },
  "events": [
-  {
-   "k": "music",
-   "n": "Hot Dub on the Harbour 2026",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Mrs Macquaries Point",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "6pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/hot-dub-on-the-harbour-2026/196073",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Day We Ran - The Naked At Your Door Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Louis The Child | Sydney",
-   "a": "City",
-   "s": "Sydney",
-   "v": "King Street Wharf",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Carl Barron: Just Wondering Why",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-20-11-2026/event/13006373871C5C30",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites JESSE MASS [NL] + KERFEW TAKEOVER FT. AHADADREAM [UK]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-kerfew-takeover-ft-ahadadream-uk-/201671",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "FRI 20 NOV - WAO SUPERCLUB @ IVY",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "9:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/fri-20-nov-wao-superclub-ivy/201729",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Marcel Dettmann & Gerd Janson [GER]",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "11pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/marcel-dettmann-gerd-janson-ger-/198613",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-20-11-2026/event/2500651AE02D5E44",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Where the wild things live",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-20",
-   "en": 0,
-   "t": "10am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/where-wild-things-live",
-   "src": "northern_beaches"
-  },
   {
    "k": "music",
    "n": "Gravagerz | SYDNEY (SOLD OUT)",
@@ -294,6 +177,19 @@
    "t": "9am\u20134pm",
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/boat-safety-open-day-2026",
+   "src": "northern_beaches"
+  },
+  {
+   "k": "fest",
+   "n": "Where the wild things live",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-21",
+   "en": 0,
+   "t": "10am\u20136pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/where-wild-things-live",
    "src": "northern_beaches"
   },
   {
@@ -1844,6 +1740,19 @@
    "src": "inner_west"
   },
   {
+   "k": "fest",
+   "n": "La Fiesta Community Open Day",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-12",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/la-fiesta-community-open-day",
+   "src": "inner_west"
+  },
+  {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
    "a": "City",
@@ -2403,6 +2312,32 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-01-04",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-04-01-2027/event/1300656397667198",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-01-05",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-05-01-2027/event/130065639767719E",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "La Boheme",
    "a": "City",
@@ -2429,6 +2364,32 @@
    "src": "ticketmaster"
   },
   {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-01-06",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-06-01-2027/event/13006563976771A4",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-01-07",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-07-01-2027/event/13006563976871AF",
+   "src": "ticketmaster"
+  },
+  {
    "k": "theatre",
    "n": "La Boheme",
    "a": "City",
@@ -2439,6 +2400,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-07-01-2027/event/130065319C013AA4",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Palace of Dreams Guided Tours",
+   "a": "City",
+   "s": "Sydney",
+   "v": "State Theatre, Sydney",
+   "st": "2027-01-08",
+   "en": 0,
+   "t": "10am",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-08-01-2027/event/13006563976971B3",
    "src": "ticketmaster"
   },
   {
@@ -2686,6 +2660,19 @@
    "t": "8pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/ogre-you-asshole/202635",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Euphoria 2 | Sydney",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-01-22",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/euphoria-2-sydney/202756",
    "src": "ticketmaster"
   },
   {
@@ -3755,6 +3742,19 @@
    "src": "northern_beaches"
   },
   {
+   "k": "food",
+   "n": "Summer Hill Social",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2027-03-07",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/summer-hill-social",
+   "src": "inner_west"
+  },
+  {
    "k": "theatre",
    "n": "The Magic Flute",
    "a": "City",
@@ -3830,6 +3830,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-11-03-2027/event/130065319F093FD7",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "RULES - 'AS SOON AS I GET HOME'",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-12",
+   "en": 0,
+   "t": "7pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/rules-as-soon-as-i-get-home-/202795",
    "src": "ticketmaster"
   },
   {
@@ -3960,6 +3973,32 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201485",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-20",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-20-03-2027/event/13006531B1C15B1C",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Falling & Flying 15 Year Anniversary",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Lansdowne Hotel",
+   "st": "2027-03-20",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201502",
    "src": "ticketmaster"
   },
   {

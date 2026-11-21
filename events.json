@@ -1,132 +1,28 @@
 {
- "updated": "2026-11-20T22:30:24.500897+00:00",
+ "updated": "2026-11-21T21:28:31.078573+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 271,
+   "count": 264,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 21,
+   "count": 20,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
-   "count": 15,
+   "count": 13,
    "warning": null,
    "error": null
   },
   "north_sydney": {
-   "count": 13,
-   "warning": "found nothing, showing older listings",
+   "count": 12,
+   "warning": null,
    "error": null
   }
  },
  "events": [
-  {
-   "k": "music",
-   "n": "Gravagerz | SYDNEY (SOLD OUT)",
-   "a": "City",
-   "s": "Sydney",
-   "v": "SEADECK",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "12:45pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/gravagerz-sydney-sold-out-/198368",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Harbourlife 2026",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Mrs Macquaries Point",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "2pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/harbourlife-2026/188785",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Delilah Bon | Australian East Coast Tour | Sydney | NOW AT METRO SOCIAL",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Metro Theatre",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "6pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney-now-at-metro-social/193236",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Eric Hutchinson ",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/eric-hutchinson/196579",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Carl Barron: Just Wondering Why",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-21-11-2026/event/13006373871C5C33",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites RIRIA [JP] + METHOD PROJECT FT. LUCA GARCIA [DE] & MIXED METHODS",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria-jp-method-project-ft-luca-garcia-de-mixed-methods/201673",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Max Dean B2B Luke Dean",
-   "a": "City",
-   "s": "Sydney",
-   "v": "ivy Sydney",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "10pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/max-dean-b2b-luke-dean/200951",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-21-11-2026/event/2500651AE02E5E4B",
-   "src": "ticketmaster"
-  },
   {
    "k": "market",
    "n": "Sydney Artisans Christmas Market",
@@ -142,19 +38,6 @@
   },
   {
    "k": "fest",
-   "n": "Stanmore Music Festival",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/stanmore-music-festival",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
    "n": "Side Group Art FXhibition 2026",
    "a": "Inner West",
    "s": "Inner West",
@@ -165,110 +48,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/side-group-art-fxhibition-2026",
    "src": "inner_west"
-  },
-  {
-   "k": "fest",
-   "n": "Boat Safety Open Day 2026",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "9am\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/boat-safety-open-day-2026",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "fest",
-   "n": "Where the wild things live",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "10am\u20136pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/where-wild-things-live",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "theatre",
-   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "2pm\u20134pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "market",
-   "n": "The Metal Space Christmas Market \u2013 Celebrating Creativity",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "5pm\u20138pm",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/metal-space-christmas-market-celebrating-creativity",
-   "src": "northern_beaches"
-  },
-  {
-   "k": "market",
-   "n": "Check In and Tune Up at Northside Produce Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/529/check-in-and-tune-up-at-northside-produce-market",
-   "src": "north_sydney"
-  },
-  {
-   "k": "market",
-   "n": "Northside Produce Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
-   "src": "north_sydney"
-  },
-  {
-   "k": "market",
-   "n": "Rotary Crows Nest Market",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/52/rotary-crows-nest-market",
-   "src": "north_sydney"
-  },
-  {
-   "k": "fest",
-   "n": "Meet the Author & Illustrator! with Tim Harris and Christopher Nielsen",
-   "a": "North Shore",
-   "s": "North Sydney",
-   "v": "See listing",
-   "st": "2026-11-21",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northsydney.nsw.gov.au/events/event/1794/meet-the-author-illustrator-with-tim-harris-and-christopher-nielsen",
-   "src": "north_sydney"
   },
   {
    "k": "music",
@@ -334,6 +113,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-22-11-2026/event/2500651AE02E5E4F",
    "src": "ticketmaster"
+  },
+  {
+   "k": "fest",
+   "n": "Where the wild things live",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-22",
+   "en": 0,
+   "t": "10am\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/where-wild-things-live",
+   "src": "northern_beaches"
   },
   {
    "k": "food",
@@ -477,6 +269,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/shut-and-write",
    "src": "inner_west"
+  },
+  {
+   "k": "theatre",
+   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-26",
+   "en": 0,
+   "t": "6pm\u20138pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
+   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -1178,6 +983,32 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/610/-behind-the-scenes-northside-produce-market-tours",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Check In and Tune Up at Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/529/check-in-and-tune-up-at-northside-produce-market",
+   "src": "north_sydney"
+  },
+  {
+   "k": "market",
+   "n": "Northside Produce Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-05",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/66/northside-produce-market",
    "src": "north_sydney"
   },
   {
@@ -2102,6 +1933,19 @@
    "x": "",
    "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/christmas-grandparents-club",
    "src": "northern_beaches"
+  },
+  {
+   "k": "market",
+   "n": "Rotary Crows Nest Market",
+   "a": "North Shore",
+   "s": "North Sydney",
+   "v": "See listing",
+   "st": "2026-12-19",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.northsydney.nsw.gov.au/events/event/52/rotary-crows-nest-market",
+   "src": "north_sydney"
   },
   {
    "k": "theatre",
@@ -4013,6 +3857,19 @@
    "x": "",
    "u": "https://www.northsydney.nsw.gov.au/events/event/1572/north-sydney-streets-crows-nest",
    "src": "north_sydney"
+  },
+  {
+   "k": "music",
+   "n": "Babes In Canyon (US) with special guest Anna Smyrk",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Oxford Art Factory",
+   "st": "2027-03-21",
+   "en": 0,
+   "t": "7:15pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/babes-in-canyon-us-with-special-guest-anna-smyrk/200328",
+   "src": "ticketmaster"
   }
  ]
 }

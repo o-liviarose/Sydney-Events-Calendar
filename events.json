@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T21:34:18.014827+00:00",
+ "updated": "2026-11-24T02:46:13.317420+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 259,
+   "count": 261,
    "warning": null,
    "error": null
   },
@@ -23,19 +23,6 @@
   }
  },
  "events": [
-  {
-   "k": "theatre",
-   "n": "An Evening with Mary Beard Talking Classics",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-23",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/an-evening-with-mary-beard-talking-sydney-23-11-2026/event/130064D796BD52AF",
-   "src": "ticketmaster"
-  },
   {
    "k": "comedy",
    "n": "Carl Barron: Just Wondering Why",
@@ -2313,6 +2300,19 @@
   },
   {
    "k": "music",
+   "n": "One Hit & Gustavo ft. Tobiahs",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2027-01-16",
+   "en": 0,
+   "t": "10pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/one-hit-gustavo-ft-tobiahs/200369",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
    "n": "LOWERTOWN",
    "a": "City",
    "s": "Sydney",
@@ -2582,6 +2582,19 @@
    "t": "7:30pm",
    "x": "",
    "u": "https://www.ticketmaster.com.au/la-boheme-sydney-30-01-2027/event/130065319CF73C3D",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "music",
+   "n": "Andre Soueid presents the 11:11 Tour - Ivy Sydney",
+   "a": "City",
+   "s": "Sydney",
+   "v": "ivy Sydney",
+   "st": "2027-01-30",
+   "en": 0,
+   "t": "9pm",
+   "x": "",
+   "u": "https://www.moshtix.com.au/v2/event/andre-soueid-presents-the-11-11-tour-ivy-sydney/202808",
    "src": "ticketmaster"
   },
   {
@@ -3752,6 +3765,19 @@
    "t": "7:15pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/babes-in-canyon-us-with-special-guest-anna-smyrk/200328",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "The Magic Flute",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Sydney Opera House- Joan Sutherland Theatre",
+   "st": "2027-03-23",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/the-magic-flute-sydney-23-03-2027/event/13006531B1C15B3E",
    "src": "ticketmaster"
   }
  ]

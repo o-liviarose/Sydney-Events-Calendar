@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T00:23:36.666352+00:00",
+ "updated": "2026-11-26T00:00:36.197786+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 260,
+   "count": 259,
    "warning": null,
    "error": null
   },
@@ -34,45 +34,6 @@
    "t": "See listing",
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/head-photo-festival-australian-baroque-table",
-   "src": "inner_west"
-  },
-  {
-   "k": "comedy",
-   "n": "Carl Barron: Just Wondering Why",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-25",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-25-11-2026/event/13006373871C5C39",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "theatre",
-   "n": "Teatro Voices",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-25",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
-   "src": "inner_west"
-  },
-  {
-   "k": "theatre",
-   "n": "Music Together: Free Playgroup",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-25",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
    "src": "inner_west"
   },
   {
@@ -181,7 +142,7 @@
   },
   {
    "k": "music",
-   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLATT + ANDRE ZIMMER + PARTIGIRL",
+   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLATT [UK] + ANDR\u00c9 ZIMMER [DE] + PARTIGIRL",
    "a": "City",
    "s": "Sydney",
    "v": "Chinese Laundry",
@@ -189,7 +150,7 @@
    "en": 0,
    "t": "9pm",
    "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allatt-andre-zimmer-partigirl/202257",
+   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allatt-uk-andr-zimmer-de-partigirl/202257",
    "src": "ticketmaster"
   },
   {
@@ -492,6 +453,19 @@
    "src": "ticketmaster"
   },
   {
+   "k": "theatre",
+   "n": "Teatro Voices",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-01",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/teatro-voices-0",
+   "src": "inner_west"
+  },
+  {
    "k": "music",
    "n": "James Blake",
    "a": "City",
@@ -529,6 +503,19 @@
    "x": "",
    "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-02-12-2026/event/2500651AE1765F1B",
    "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Music Together: Free Playgroup",
+   "a": "Inner West",
+   "s": "Inner West",
+   "v": "See listing",
+   "st": "2026-12-02",
+   "en": 0,
+   "t": "See listing",
+   "x": "",
+   "u": "https://www.innerwest.nsw.gov.au/whats-on/music-together-free-playgroup",
+   "src": "inner_west"
   },
   {
    "k": "comedy",

@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-27T00:20:05.454946+00:00",
+ "updated": "2026-11-27T23:55:55.503996+00:00",
  "sources": {
   "ticketmaster": {
-   "count": 257,
+   "count": 252,
    "warning": null,
    "error": null
   },
   "inner_west": {
-   "count": 20,
+   "count": 19,
    "warning": null,
    "error": null
   },
   "northern_beaches": {
    "count": 10,
-   "warning": "found nothing, showing older listings",
+   "warning": null,
    "error": null
   },
   "north_sydney": {
@@ -38,71 +38,6 @@
   },
   {
    "k": "music",
-   "n": "SLY WITHERS - TBH ALBUM TOUR",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Oxford Art Factory",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "7pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/sly-withers-tbh-album-tour/198259",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Jacot\u00e9ne Australia Headline Tour",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Lansdowne Hotel",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "7:30pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/jacot-ne-australia-headline-tour/199736",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "comedy",
-   "n": "Carl Barron: Just Wondering Why",
-   "a": "City",
-   "s": "Sydney",
-   "v": "State Theatre, Sydney",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-27-11-2026/event/13006373871C5C3C",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "VTSS",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Plaza Hotel Sydney",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "8pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/vtss/198636",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
-   "n": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLATT [UK] + ANDR\u00c9 ZIMMER [DE] + PARTIGIRL",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Chinese Laundry",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "9pm",
-   "x": "",
-   "u": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allatt-uk-andr-zimmer-de-partigirl/202257",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "music",
    "n": "FRI 27 NOV - INT GUEST DJ ANIME @ WAO SUPERCLUB",
    "a": "City",
    "s": "Sydney",
@@ -116,32 +51,6 @@
   },
   {
    "k": "fest",
-   "n": "Wundrful World Of Christmas",
-   "a": "City",
-   "s": "Sydney",
-   "v": "Wundr Store",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "Times on listing",
-   "x": "",
-   "u": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-27-11-2026/event/2500651AE02E5E54",
-   "src": "ticketmaster"
-  },
-  {
-   "k": "fest",
-   "n": "Film club",
-   "a": "Inner West",
-   "s": "Inner West",
-   "v": "See listing",
-   "st": "2026-11-27",
-   "en": 0,
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.innerwest.nsw.gov.au/whats-on/film-club",
-   "src": "inner_west"
-  },
-  {
-   "k": "fest",
    "n": "Inclusion Festival",
    "a": "Inner West",
    "s": "Inner West",
@@ -152,19 +61,6 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/inclusion-festival",
    "src": "inner_west"
-  },
-  {
-   "k": "market",
-   "n": "Anchored",
-   "a": "Northern Beaches",
-   "s": "Northern Beaches",
-   "v": "See listing",
-   "st": "2026-11-27",
-   "en": "2026-11-29",
-   "t": "See listing",
-   "x": "",
-   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/anchored",
-   "src": "northern_beaches"
   },
   {
    "k": "music",
@@ -269,6 +165,19 @@
    "x": "",
    "u": "https://www.innerwest.nsw.gov.au/whats-on/gospel-choir-concert-homeless",
    "src": "inner_west"
+  },
+  {
+   "k": "theatre",
+   "n": "Northern Beaches Youth Theatre Presents \"The Cast Will Scream!\" by Nathan Clift",
+   "a": "Northern Beaches",
+   "s": "Northern Beaches",
+   "v": "See listing",
+   "st": "2026-11-28",
+   "en": 0,
+   "t": "2pm\u20134pm",
+   "x": "",
+   "u": "https://www.northernbeaches.nsw.gov.au/things-to-do/whats-on/northern-beaches-youth-theatre-presents-cast-will-scream-nathan-clift",
+   "src": "northern_beaches"
   },
   {
    "k": "fest",
@@ -3739,6 +3648,19 @@
    "t": "7pm",
    "x": "",
    "u": "https://www.moshtix.com.au/v2/event/bess-atwell-australian-tour/201487",
+   "src": "ticketmaster"
+  },
+  {
+   "k": "theatre",
+   "n": "Aida on Sydney Harbour",
+   "a": "City",
+   "s": "Sydney",
+   "v": "Mrs Macquaries Point",
+   "st": "2027-03-27",
+   "en": 0,
+   "t": "7:30pm",
+   "x": "",
+   "u": "https://www.ticketmaster.com.au/aida-on-sydney-harbour-sydney-27-03-2027/event/1300653DE7B214B8",
    "src": "ticketmaster"
   },
   {
